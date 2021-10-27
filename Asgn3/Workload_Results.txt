@@ -1,0 +1,3725 @@
+Workload Conditions for test: 
+Priority Range:                      0-5
+Minimum CPU time:                    0.100000
+Maximum CPU time:                    0.500000
+Arrival rates:                       0.100000 per second
+The total number of jobs submitted:  5
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          92.8453 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-5
+Minimum CPU time:                    0.100000
+Maximum CPU time:                    1.000000
+Arrival rates:                       0.100000 per second
+The total number of jobs submitted:  5
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          93.5576 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-5
+Minimum CPU time:                    0.500000
+Maximum CPU time:                    1.000000
+Arrival rates:                       0.100000 per second
+The total number of jobs submitted:  5
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          94.5358 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-5
+Minimum CPU time:                    1.000000
+Maximum CPU time:                    10.000000
+Arrival rates:                       0.100000 per second
+The total number of jobs submitted:  5
+Average turnaround time:             14.00 seconds
+Average CPU time:                    5.01 seconds
+Average waiting time:                9.00 seconds
+Throughput:                          0.1997 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-5
+Minimum CPU time:                    0.100000
+Maximum CPU time:                    0.500000
+Arrival rates:                       0.200000 per second
+The total number of jobs submitted:  5
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          49.0451 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-5
+Minimum CPU time:                    0.100000
+Maximum CPU time:                    1.000000
+Arrival rates:                       0.200000 per second
+The total number of jobs submitted:  5
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          48.6145 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-5
+Minimum CPU time:                    0.500000
+Maximum CPU time:                    1.000000
+Arrival rates:                       0.200000 per second
+The total number of jobs submitted:  5
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          48.7420 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-5
+Minimum CPU time:                    1.000000
+Maximum CPU time:                    10.000000
+Arrival rates:                       0.200000 per second
+The total number of jobs submitted:  5
+Average turnaround time:             13.98 seconds
+Average CPU time:                    5.41 seconds
+Average waiting time:                8.57 seconds
+Throughput:                          0.1849 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-5
+Minimum CPU time:                    0.100000
+Maximum CPU time:                    0.500000
+Arrival rates:                       0.500000 per second
+The total number of jobs submitted:  5
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          19.7650 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-5
+Minimum CPU time:                    0.100000
+Maximum CPU time:                    1.000000
+Arrival rates:                       0.500000 per second
+The total number of jobs submitted:  5
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          19.6785 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-5
+Minimum CPU time:                    0.500000
+Maximum CPU time:                    1.000000
+Arrival rates:                       0.500000 per second
+The total number of jobs submitted:  5
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          19.8833 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-5
+Minimum CPU time:                    1.000000
+Maximum CPU time:                    10.000000
+Arrival rates:                       0.500000 per second
+The total number of jobs submitted:  5
+Average turnaround time:             13.92 seconds
+Average CPU time:                    4.61 seconds
+Average waiting time:                9.32 seconds
+Throughput:                          0.2170 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-5
+Minimum CPU time:                    0.100000
+Maximum CPU time:                    0.500000
+Arrival rates:                       1.000000 per second
+The total number of jobs submitted:  5
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          9.9561 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-5
+Minimum CPU time:                    0.100000
+Maximum CPU time:                    1.000000
+Arrival rates:                       1.000000 per second
+The total number of jobs submitted:  5
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          9.9793 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-5
+Minimum CPU time:                    0.500000
+Maximum CPU time:                    1.000000
+Arrival rates:                       1.000000 per second
+The total number of jobs submitted:  5
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          9.9723 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-5
+Minimum CPU time:                    1.000000
+Maximum CPU time:                    10.000000
+Arrival rates:                       1.000000 per second
+The total number of jobs submitted:  5
+Average turnaround time:             10.22 seconds
+Average CPU time:                    3.61 seconds
+Average waiting time:                6.61 seconds
+Throughput:                          0.2772 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-10
+Minimum CPU time:                    0.100000
+Maximum CPU time:                    0.500000
+Arrival rates:                       0.100000 per second
+The total number of jobs submitted:  10
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          93.0224 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-10
+Minimum CPU time:                    0.100000
+Maximum CPU time:                    1.000000
+Arrival rates:                       0.100000 per second
+The total number of jobs submitted:  10
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          92.3284 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-10
+Minimum CPU time:                    0.500000
+Maximum CPU time:                    1.000000
+Arrival rates:                       0.100000 per second
+The total number of jobs submitted:  10
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          91.3534 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-10
+Minimum CPU time:                    1.000000
+Maximum CPU time:                    10.000000
+Arrival rates:                       0.100000 per second
+The total number of jobs submitted:  10
+Average turnaround time:             23.20 seconds
+Average CPU time:                    5.21 seconds
+Average waiting time:                17.99 seconds
+Throughput:                          0.1920 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-10
+Minimum CPU time:                    0.100000
+Maximum CPU time:                    0.500000
+Arrival rates:                       0.200000 per second
+The total number of jobs submitted:  10
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          47.9437 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-10
+Minimum CPU time:                    0.100000
+Maximum CPU time:                    1.000000
+Arrival rates:                       0.200000 per second
+The total number of jobs submitted:  10
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          47.8572 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-10
+Minimum CPU time:                    0.500000
+Maximum CPU time:                    1.000000
+Arrival rates:                       0.200000 per second
+The total number of jobs submitted:  10
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          47.9704 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-10
+Minimum CPU time:                    1.000000
+Maximum CPU time:                    10.000000
+Arrival rates:                       0.200000 per second
+The total number of jobs submitted:  10
+Average turnaround time:             22.35 seconds
+Average CPU time:                    5.21 seconds
+Average waiting time:                17.15 seconds
+Throughput:                          0.1920 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-10
+Minimum CPU time:                    0.100000
+Maximum CPU time:                    0.500000
+Arrival rates:                       0.500000 per second
+The total number of jobs submitted:  10
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          19.8176 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-10
+Minimum CPU time:                    0.100000
+Maximum CPU time:                    1.000000
+Arrival rates:                       0.500000 per second
+The total number of jobs submitted:  10
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          19.8139 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-10
+Minimum CPU time:                    0.500000
+Maximum CPU time:                    1.000000
+Arrival rates:                       0.500000 per second
+The total number of jobs submitted:  10
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          19.8450 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-10
+Minimum CPU time:                    1.000000
+Maximum CPU time:                    10.000000
+Arrival rates:                       0.500000 per second
+The total number of jobs submitted:  10
+Average turnaround time:             15.92 seconds
+Average CPU time:                    4.51 seconds
+Average waiting time:                11.41 seconds
+Throughput:                          0.2218 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-10
+Minimum CPU time:                    0.100000
+Maximum CPU time:                    0.500000
+Arrival rates:                       1.000000 per second
+The total number of jobs submitted:  10
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          9.9613 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-10
+Minimum CPU time:                    0.100000
+Maximum CPU time:                    1.000000
+Arrival rates:                       1.000000 per second
+The total number of jobs submitted:  10
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          9.9627 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-10
+Minimum CPU time:                    0.500000
+Maximum CPU time:                    1.000000
+Arrival rates:                       1.000000 per second
+The total number of jobs submitted:  10
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          9.9623 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-10
+Minimum CPU time:                    1.000000
+Maximum CPU time:                    10.000000
+Arrival rates:                       1.000000 per second
+The total number of jobs submitted:  10
+Average turnaround time:             23.79 seconds
+Average CPU time:                    5.11 seconds
+Average waiting time:                18.69 seconds
+Throughput:                          0.1958 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-15
+Minimum CPU time:                    0.100000
+Maximum CPU time:                    0.500000
+Arrival rates:                       0.100000 per second
+The total number of jobs submitted:  15
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          91.7588 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-15
+Minimum CPU time:                    0.100000
+Maximum CPU time:                    1.000000
+Arrival rates:                       0.100000 per second
+The total number of jobs submitted:  15
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          94.3835 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-15
+Minimum CPU time:                    0.500000
+Maximum CPU time:                    1.000000
+Arrival rates:                       0.100000 per second
+The total number of jobs submitted:  15
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          93.4003 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-15
+Minimum CPU time:                    1.000000
+Maximum CPU time:                    10.000000
+Arrival rates:                       0.100000 per second
+The total number of jobs submitted:  15
+Average turnaround time:             34.53 seconds
+Average CPU time:                    5.81 seconds
+Average waiting time:                28.72 seconds
+Throughput:                          0.1722 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-15
+Minimum CPU time:                    0.100000
+Maximum CPU time:                    0.500000
+Arrival rates:                       0.200000 per second
+The total number of jobs submitted:  15
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          47.9239 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-15
+Minimum CPU time:                    0.100000
+Maximum CPU time:                    1.000000
+Arrival rates:                       0.200000 per second
+The total number of jobs submitted:  15
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          47.8229 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-15
+Minimum CPU time:                    0.500000
+Maximum CPU time:                    1.000000
+Arrival rates:                       0.200000 per second
+The total number of jobs submitted:  15
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          47.7406 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-15
+Minimum CPU time:                    1.000000
+Maximum CPU time:                    10.000000
+Arrival rates:                       0.200000 per second
+The total number of jobs submitted:  15
+Average turnaround time:             38.32 seconds
+Average CPU time:                    5.94 seconds
+Average waiting time:                32.38 seconds
+Throughput:                          0.1683 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-15
+Minimum CPU time:                    0.100000
+Maximum CPU time:                    0.500000
+Arrival rates:                       0.500000 per second
+The total number of jobs submitted:  15
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          19.6639 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-15
+Minimum CPU time:                    0.100000
+Maximum CPU time:                    1.000000
+Arrival rates:                       0.500000 per second
+The total number of jobs submitted:  15
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          19.6782 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-15
+Minimum CPU time:                    0.500000
+Maximum CPU time:                    1.000000
+Arrival rates:                       0.500000 per second
+The total number of jobs submitted:  15
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          19.6785 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-15
+Minimum CPU time:                    1.000000
+Maximum CPU time:                    10.000000
+Arrival rates:                       0.500000 per second
+The total number of jobs submitted:  15
+Average turnaround time:             25.65 seconds
+Average CPU time:                    4.54 seconds
+Average waiting time:                21.10 seconds
+Throughput:                          0.2202 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-15
+Minimum CPU time:                    0.100000
+Maximum CPU time:                    0.500000
+Arrival rates:                       1.000000 per second
+The total number of jobs submitted:  15
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          9.9385 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-15
+Minimum CPU time:                    0.100000
+Maximum CPU time:                    1.000000
+Arrival rates:                       1.000000 per second
+The total number of jobs submitted:  15
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          9.9320 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-15
+Minimum CPU time:                    0.500000
+Maximum CPU time:                    1.000000
+Arrival rates:                       1.000000 per second
+The total number of jobs submitted:  15
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          9.9311 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-15
+Minimum CPU time:                    1.000000
+Maximum CPU time:                    10.000000
+Arrival rates:                       1.000000 per second
+The total number of jobs submitted:  15
+Average turnaround time:             32.50 seconds
+Average CPU time:                    5.28 seconds
+Average waiting time:                27.22 seconds
+Throughput:                          0.1896 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-20
+Minimum CPU time:                    0.100000
+Maximum CPU time:                    0.500000
+Arrival rates:                       0.100000 per second
+The total number of jobs submitted:  20
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          93.3567 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-20
+Minimum CPU time:                    0.100000
+Maximum CPU time:                    1.000000
+Arrival rates:                       0.100000 per second
+The total number of jobs submitted:  20
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          92.1184 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-20
+Minimum CPU time:                    0.500000
+Maximum CPU time:                    1.000000
+Arrival rates:                       0.100000 per second
+The total number of jobs submitted:  20
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          93.4287 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-20
+Minimum CPU time:                    1.000000
+Maximum CPU time:                    10.000000
+Arrival rates:                       0.100000 per second
+The total number of jobs submitted:  20
+Average turnaround time:             41.89 seconds
+Average CPU time:                    5.11 seconds
+Average waiting time:                36.78 seconds
+Throughput:                          0.1958 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-20
+Minimum CPU time:                    0.100000
+Maximum CPU time:                    0.500000
+Arrival rates:                       0.200000 per second
+The total number of jobs submitted:  20
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          48.6401 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-20
+Minimum CPU time:                    0.100000
+Maximum CPU time:                    1.000000
+Arrival rates:                       0.200000 per second
+The total number of jobs submitted:  20
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          48.6946 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-20
+Minimum CPU time:                    0.500000
+Maximum CPU time:                    1.000000
+Arrival rates:                       0.200000 per second
+The total number of jobs submitted:  20
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          48.3189 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-20
+Minimum CPU time:                    1.000000
+Maximum CPU time:                    10.000000
+Arrival rates:                       0.200000 per second
+The total number of jobs submitted:  20
+Average turnaround time:             39.54 seconds
+Average CPU time:                    5.26 seconds
+Average waiting time:                34.28 seconds
+Throughput:                          0.1902 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-20
+Minimum CPU time:                    0.100000
+Maximum CPU time:                    0.500000
+Arrival rates:                       0.500000 per second
+The total number of jobs submitted:  20
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          19.8480 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-20
+Minimum CPU time:                    0.100000
+Maximum CPU time:                    1.000000
+Arrival rates:                       0.500000 per second
+The total number of jobs submitted:  20
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          19.8617 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-20
+Minimum CPU time:                    0.500000
+Maximum CPU time:                    1.000000
+Arrival rates:                       0.500000 per second
+The total number of jobs submitted:  20
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          19.8351 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-20
+Minimum CPU time:                    1.000000
+Maximum CPU time:                    10.000000
+Arrival rates:                       0.500000 per second
+The total number of jobs submitted:  20
+Average turnaround time:             35.56 seconds
+Average CPU time:                    4.86 seconds
+Average waiting time:                30.70 seconds
+Throughput:                          0.2058 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-20
+Minimum CPU time:                    0.100000
+Maximum CPU time:                    0.500000
+Arrival rates:                       1.000000 per second
+The total number of jobs submitted:  20
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          9.9660 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-20
+Minimum CPU time:                    0.100000
+Maximum CPU time:                    1.000000
+Arrival rates:                       1.000000 per second
+The total number of jobs submitted:  20
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          9.9666 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-20
+Minimum CPU time:                    0.500000
+Maximum CPU time:                    1.000000
+Arrival rates:                       1.000000 per second
+The total number of jobs submitted:  20
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          9.9646 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-20
+Minimum CPU time:                    1.000000
+Maximum CPU time:                    10.000000
+Arrival rates:                       1.000000 per second
+The total number of jobs submitted:  20
+Average turnaround time:             34.98 seconds
+Average CPU time:                    4.51 seconds
+Average waiting time:                30.48 seconds
+Throughput:                          0.2218 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-25
+Minimum CPU time:                    0.100000
+Maximum CPU time:                    0.500000
+Arrival rates:                       0.100000 per second
+The total number of jobs submitted:  25
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          93.8826 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-25
+Minimum CPU time:                    0.100000
+Maximum CPU time:                    1.000000
+Arrival rates:                       0.100000 per second
+The total number of jobs submitted:  25
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          95.3318 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-25
+Minimum CPU time:                    0.500000
+Maximum CPU time:                    1.000000
+Arrival rates:                       0.100000 per second
+The total number of jobs submitted:  25
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          94.8551 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-25
+Minimum CPU time:                    1.000000
+Maximum CPU time:                    10.000000
+Arrival rates:                       0.100000 per second
+The total number of jobs submitted:  25
+Average turnaround time:             43.18 seconds
+Average CPU time:                    4.73 seconds
+Average waiting time:                38.45 seconds
+Throughput:                          0.2115 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-25
+Minimum CPU time:                    0.100000
+Maximum CPU time:                    0.500000
+Arrival rates:                       0.200000 per second
+The total number of jobs submitted:  25
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          48.4298 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-25
+Minimum CPU time:                    0.100000
+Maximum CPU time:                    1.000000
+Arrival rates:                       0.200000 per second
+The total number of jobs submitted:  25
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          48.4181 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-25
+Minimum CPU time:                    0.500000
+Maximum CPU time:                    1.000000
+Arrival rates:                       0.200000 per second
+The total number of jobs submitted:  25
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          48.7974 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-25
+Minimum CPU time:                    1.000000
+Maximum CPU time:                    10.000000
+Arrival rates:                       0.200000 per second
+The total number of jobs submitted:  25
+Average turnaround time:             47.38 seconds
+Average CPU time:                    5.05 seconds
+Average waiting time:                42.34 seconds
+Throughput:                          0.1981 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-25
+Minimum CPU time:                    0.100000
+Maximum CPU time:                    0.500000
+Arrival rates:                       0.500000 per second
+The total number of jobs submitted:  25
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          19.8059 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-25
+Minimum CPU time:                    0.100000
+Maximum CPU time:                    1.000000
+Arrival rates:                       0.500000 per second
+The total number of jobs submitted:  25
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          19.8318 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-25
+Minimum CPU time:                    0.500000
+Maximum CPU time:                    1.000000
+Arrival rates:                       0.500000 per second
+The total number of jobs submitted:  25
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          19.8519 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-25
+Minimum CPU time:                    1.000000
+Maximum CPU time:                    10.000000
+Arrival rates:                       0.500000 per second
+The total number of jobs submitted:  25
+Average turnaround time:             45.50 seconds
+Average CPU time:                    4.61 seconds
+Average waiting time:                40.89 seconds
+Throughput:                          0.2170 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-25
+Minimum CPU time:                    0.100000
+Maximum CPU time:                    0.500000
+Arrival rates:                       1.000000 per second
+The total number of jobs submitted:  25
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          9.9593 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-25
+Minimum CPU time:                    0.100000
+Maximum CPU time:                    1.000000
+Arrival rates:                       1.000000 per second
+The total number of jobs submitted:  25
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          9.9639 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-25
+Minimum CPU time:                    0.500000
+Maximum CPU time:                    1.000000
+Arrival rates:                       1.000000 per second
+The total number of jobs submitted:  25
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          9.9733 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-25
+Minimum CPU time:                    1.000000
+Maximum CPU time:                    10.000000
+Arrival rates:                       1.000000 per second
+The total number of jobs submitted:  25
+Average turnaround time:             54.30 seconds
+Average CPU time:                    5.41 seconds
+Average waiting time:                48.90 seconds
+Throughput:                          0.1849 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-5
+Minimum CPU time:                    0.100000
+Maximum CPU time:                    0.500000
+Arrival rates:                       0.100000 per second
+The total number of jobs submitted:  5
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          91.5047 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-5
+Minimum CPU time:                    0.100000
+Maximum CPU time:                    1.000000
+Arrival rates:                       0.100000 per second
+The total number of jobs submitted:  5
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          94.9109 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-5
+Minimum CPU time:                    0.500000
+Maximum CPU time:                    1.000000
+Arrival rates:                       0.100000 per second
+The total number of jobs submitted:  5
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          95.7414 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-5
+Minimum CPU time:                    1.000000
+Maximum CPU time:                    10.000000
+Arrival rates:                       0.100000 per second
+The total number of jobs submitted:  5
+Average turnaround time:             16.00 seconds
+Average CPU time:                    6.21 seconds
+Average waiting time:                9.79 seconds
+Throughput:                          0.1611 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-5
+Minimum CPU time:                    0.100000
+Maximum CPU time:                    0.500000
+Arrival rates:                       0.200000 per second
+The total number of jobs submitted:  5
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          48.5300 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-5
+Minimum CPU time:                    0.100000
+Maximum CPU time:                    1.000000
+Arrival rates:                       0.200000 per second
+The total number of jobs submitted:  5
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          47.8698 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-5
+Minimum CPU time:                    0.500000
+Maximum CPU time:                    1.000000
+Arrival rates:                       0.200000 per second
+The total number of jobs submitted:  5
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          47.9543 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-5
+Minimum CPU time:                    1.000000
+Maximum CPU time:                    10.000000
+Arrival rates:                       0.200000 per second
+The total number of jobs submitted:  5
+Average turnaround time:             19.18 seconds
+Average CPU time:                    7.01 seconds
+Average waiting time:                12.18 seconds
+Throughput:                          0.1427 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-5
+Minimum CPU time:                    0.100000
+Maximum CPU time:                    0.500000
+Arrival rates:                       0.500000 per second
+The total number of jobs submitted:  5
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          19.8393 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-5
+Minimum CPU time:                    0.100000
+Maximum CPU time:                    1.000000
+Arrival rates:                       0.500000 per second
+The total number of jobs submitted:  5
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          19.8682 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-5
+Minimum CPU time:                    0.500000
+Maximum CPU time:                    1.000000
+Arrival rates:                       0.500000 per second
+The total number of jobs submitted:  5
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          19.9105 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-5
+Minimum CPU time:                    1.000000
+Maximum CPU time:                    10.000000
+Arrival rates:                       0.500000 per second
+The total number of jobs submitted:  5
+Average turnaround time:             24.33 seconds
+Average CPU time:                    8.41 seconds
+Average waiting time:                15.92 seconds
+Throughput:                          0.1189 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-5
+Minimum CPU time:                    0.100000
+Maximum CPU time:                    0.500000
+Arrival rates:                       1.000000 per second
+The total number of jobs submitted:  5
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          9.9257 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-5
+Minimum CPU time:                    0.100000
+Maximum CPU time:                    1.000000
+Arrival rates:                       1.000000 per second
+The total number of jobs submitted:  5
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          9.9511 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-5
+Minimum CPU time:                    0.500000
+Maximum CPU time:                    1.000000
+Arrival rates:                       1.000000 per second
+The total number of jobs submitted:  5
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          9.9656 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-5
+Minimum CPU time:                    1.000000
+Maximum CPU time:                    10.000000
+Arrival rates:                       1.000000 per second
+The total number of jobs submitted:  5
+Average turnaround time:             8.42 seconds
+Average CPU time:                    4.21 seconds
+Average waiting time:                4.21 seconds
+Throughput:                          0.2376 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-10
+Minimum CPU time:                    0.100000
+Maximum CPU time:                    0.500000
+Arrival rates:                       0.100000 per second
+The total number of jobs submitted:  10
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          93.7919 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-10
+Minimum CPU time:                    0.100000
+Maximum CPU time:                    1.000000
+Arrival rates:                       0.100000 per second
+The total number of jobs submitted:  10
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          95.2399 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-10
+Minimum CPU time:                    0.500000
+Maximum CPU time:                    1.000000
+Arrival rates:                       0.100000 per second
+The total number of jobs submitted:  10
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          95.5493 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-10
+Minimum CPU time:                    1.000000
+Maximum CPU time:                    10.000000
+Arrival rates:                       0.100000 per second
+The total number of jobs submitted:  10
+Average turnaround time:             19.00 seconds
+Average CPU time:                    4.51 seconds
+Average waiting time:                14.49 seconds
+Throughput:                          0.2218 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-10
+Minimum CPU time:                    0.100000
+Maximum CPU time:                    0.500000
+Arrival rates:                       0.200000 per second
+The total number of jobs submitted:  10
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          48.7014 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-10
+Minimum CPU time:                    0.100000
+Maximum CPU time:                    1.000000
+Arrival rates:                       0.200000 per second
+The total number of jobs submitted:  10
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          48.4149 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-10
+Minimum CPU time:                    0.500000
+Maximum CPU time:                    1.000000
+Arrival rates:                       0.200000 per second
+The total number of jobs submitted:  10
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          48.5937 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-10
+Minimum CPU time:                    1.000000
+Maximum CPU time:                    10.000000
+Arrival rates:                       0.200000 per second
+The total number of jobs submitted:  10
+Average turnaround time:             16.75 seconds
+Average CPU time:                    4.01 seconds
+Average waiting time:                12.74 seconds
+Throughput:                          0.2495 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-10
+Minimum CPU time:                    0.100000
+Maximum CPU time:                    0.500000
+Arrival rates:                       0.500000 per second
+The total number of jobs submitted:  10
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          19.8596 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-10
+Minimum CPU time:                    0.100000
+Maximum CPU time:                    1.000000
+Arrival rates:                       0.500000 per second
+The total number of jobs submitted:  10
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          19.7964 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-10
+Minimum CPU time:                    0.500000
+Maximum CPU time:                    1.000000
+Arrival rates:                       0.500000 per second
+The total number of jobs submitted:  10
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          19.8964 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-10
+Minimum CPU time:                    1.000000
+Maximum CPU time:                    10.000000
+Arrival rates:                       0.500000 per second
+The total number of jobs submitted:  10
+Average turnaround time:             20.12 seconds
+Average CPU time:                    4.41 seconds
+Average waiting time:                15.71 seconds
+Throughput:                          0.2268 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-10
+Minimum CPU time:                    0.100000
+Maximum CPU time:                    0.500000
+Arrival rates:                       1.000000 per second
+The total number of jobs submitted:  10
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          9.9679 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-10
+Minimum CPU time:                    0.100000
+Maximum CPU time:                    1.000000
+Arrival rates:                       1.000000 per second
+The total number of jobs submitted:  10
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          9.9451 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-10
+Minimum CPU time:                    0.500000
+Maximum CPU time:                    1.000000
+Arrival rates:                       1.000000 per second
+The total number of jobs submitted:  10
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          9.9646 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-10
+Minimum CPU time:                    1.000000
+Maximum CPU time:                    10.000000
+Arrival rates:                       1.000000 per second
+The total number of jobs submitted:  10
+Average turnaround time:             22.70 seconds
+Average CPU time:                    4.81 seconds
+Average waiting time:                17.89 seconds
+Throughput:                          0.2080 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-15
+Minimum CPU time:                    0.100000
+Maximum CPU time:                    0.500000
+Arrival rates:                       0.100000 per second
+The total number of jobs submitted:  15
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          93.5325 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-15
+Minimum CPU time:                    0.100000
+Maximum CPU time:                    1.000000
+Arrival rates:                       0.100000 per second
+The total number of jobs submitted:  15
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          94.4204 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-15
+Minimum CPU time:                    0.500000
+Maximum CPU time:                    1.000000
+Arrival rates:                       0.100000 per second
+The total number of jobs submitted:  15
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          94.5430 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-15
+Minimum CPU time:                    1.000000
+Maximum CPU time:                    10.000000
+Arrival rates:                       0.100000 per second
+The total number of jobs submitted:  15
+Average turnaround time:             41.53 seconds
+Average CPU time:                    6.27 seconds
+Average waiting time:                35.25 seconds
+Throughput:                          0.1594 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-15
+Minimum CPU time:                    0.100000
+Maximum CPU time:                    0.500000
+Arrival rates:                       0.200000 per second
+The total number of jobs submitted:  15
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          48.5534 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-15
+Minimum CPU time:                    0.100000
+Maximum CPU time:                    1.000000
+Arrival rates:                       0.200000 per second
+The total number of jobs submitted:  15
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          48.6295 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-15
+Minimum CPU time:                    0.500000
+Maximum CPU time:                    1.000000
+Arrival rates:                       0.200000 per second
+The total number of jobs submitted:  15
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          48.8646 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-15
+Minimum CPU time:                    1.000000
+Maximum CPU time:                    10.000000
+Arrival rates:                       0.200000 per second
+The total number of jobs submitted:  15
+Average turnaround time:             27.46 seconds
+Average CPU time:                    4.87 seconds
+Average waiting time:                22.58 seconds
+Throughput:                          0.2051 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-15
+Minimum CPU time:                    0.100000
+Maximum CPU time:                    0.500000
+Arrival rates:                       0.500000 per second
+The total number of jobs submitted:  15
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          19.8297 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-15
+Minimum CPU time:                    0.100000
+Maximum CPU time:                    1.000000
+Arrival rates:                       0.500000 per second
+The total number of jobs submitted:  15
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          19.8703 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-15
+Minimum CPU time:                    0.500000
+Maximum CPU time:                    1.000000
+Arrival rates:                       0.500000 per second
+The total number of jobs submitted:  15
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          19.8218 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-15
+Minimum CPU time:                    1.000000
+Maximum CPU time:                    10.000000
+Arrival rates:                       0.500000 per second
+The total number of jobs submitted:  15
+Average turnaround time:             32.38 seconds
+Average CPU time:                    5.28 seconds
+Average waiting time:                27.11 seconds
+Throughput:                          0.1896 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-15
+Minimum CPU time:                    0.100000
+Maximum CPU time:                    0.500000
+Arrival rates:                       1.000000 per second
+The total number of jobs submitted:  15
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          9.9370 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-15
+Minimum CPU time:                    0.100000
+Maximum CPU time:                    1.000000
+Arrival rates:                       1.000000 per second
+The total number of jobs submitted:  15
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          9.9612 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-15
+Minimum CPU time:                    0.500000
+Maximum CPU time:                    1.000000
+Arrival rates:                       1.000000 per second
+The total number of jobs submitted:  15
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          9.9569 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-15
+Minimum CPU time:                    1.000000
+Maximum CPU time:                    10.000000
+Arrival rates:                       1.000000 per second
+The total number of jobs submitted:  15
+Average turnaround time:             22.30 seconds
+Average CPU time:                    4.07 seconds
+Average waiting time:                18.22 seconds
+Throughput:                          0.2454 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-20
+Minimum CPU time:                    0.100000
+Maximum CPU time:                    0.500000
+Arrival rates:                       0.100000 per second
+The total number of jobs submitted:  20
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          92.6308 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-20
+Minimum CPU time:                    0.100000
+Maximum CPU time:                    1.000000
+Arrival rates:                       0.100000 per second
+The total number of jobs submitted:  20
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          92.5943 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-20
+Minimum CPU time:                    0.500000
+Maximum CPU time:                    1.000000
+Arrival rates:                       0.100000 per second
+The total number of jobs submitted:  20
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          92.4693 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-20
+Minimum CPU time:                    1.000000
+Maximum CPU time:                    10.000000
+Arrival rates:                       0.100000 per second
+The total number of jobs submitted:  20
+Average turnaround time:             59.39 seconds
+Average CPU time:                    6.61 seconds
+Average waiting time:                52.78 seconds
+Throughput:                          0.1513 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-20
+Minimum CPU time:                    0.100000
+Maximum CPU time:                    0.500000
+Arrival rates:                       0.200000 per second
+The total number of jobs submitted:  20
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          48.5288 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-20
+Minimum CPU time:                    0.100000
+Maximum CPU time:                    1.000000
+Arrival rates:                       0.200000 per second
+The total number of jobs submitted:  20
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          47.9787 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-20
+Minimum CPU time:                    0.500000
+Maximum CPU time:                    1.000000
+Arrival rates:                       0.200000 per second
+The total number of jobs submitted:  20
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          48.0061 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-20
+Minimum CPU time:                    1.000000
+Maximum CPU time:                    10.000000
+Arrival rates:                       0.200000 per second
+The total number of jobs submitted:  20
+Average turnaround time:             47.99 seconds
+Average CPU time:                    5.66 seconds
+Average waiting time:                42.34 seconds
+Throughput:                          0.1767 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-20
+Minimum CPU time:                    0.100000
+Maximum CPU time:                    0.500000
+Arrival rates:                       0.500000 per second
+The total number of jobs submitted:  20
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          19.8193 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-20
+Minimum CPU time:                    0.100000
+Maximum CPU time:                    1.000000
+Arrival rates:                       0.500000 per second
+The total number of jobs submitted:  20
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          19.8006 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-20
+Minimum CPU time:                    0.500000
+Maximum CPU time:                    1.000000
+Arrival rates:                       0.500000 per second
+The total number of jobs submitted:  20
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          19.8524 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-20
+Minimum CPU time:                    1.000000
+Maximum CPU time:                    10.000000
+Arrival rates:                       0.500000 per second
+The total number of jobs submitted:  20
+Average turnaround time:             46.26 seconds
+Average CPU time:                    5.71 seconds
+Average waiting time:                40.55 seconds
+Throughput:                          0.1752 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-20
+Minimum CPU time:                    0.100000
+Maximum CPU time:                    0.500000
+Arrival rates:                       1.000000 per second
+The total number of jobs submitted:  20
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          9.9677 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-20
+Minimum CPU time:                    0.100000
+Maximum CPU time:                    1.000000
+Arrival rates:                       1.000000 per second
+The total number of jobs submitted:  20
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          9.9619 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-20
+Minimum CPU time:                    0.500000
+Maximum CPU time:                    1.000000
+Arrival rates:                       1.000000 per second
+The total number of jobs submitted:  20
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          9.9643 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-20
+Minimum CPU time:                    1.000000
+Maximum CPU time:                    10.000000
+Arrival rates:                       1.000000 per second
+The total number of jobs submitted:  20
+Average turnaround time:             37.08 seconds
+Average CPU time:                    4.66 seconds
+Average waiting time:                32.42 seconds
+Throughput:                          0.2147 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-25
+Minimum CPU time:                    0.100000
+Maximum CPU time:                    0.500000
+Arrival rates:                       0.100000 per second
+The total number of jobs submitted:  25
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          93.6018 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-25
+Minimum CPU time:                    0.100000
+Maximum CPU time:                    1.000000
+Arrival rates:                       0.100000 per second
+The total number of jobs submitted:  25
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          93.2411 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-25
+Minimum CPU time:                    0.500000
+Maximum CPU time:                    1.000000
+Arrival rates:                       0.100000 per second
+The total number of jobs submitted:  25
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          92.6983 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-25
+Minimum CPU time:                    1.000000
+Maximum CPU time:                    10.000000
+Arrival rates:                       0.100000 per second
+The total number of jobs submitted:  25
+Average turnaround time:             51.50 seconds
+Average CPU time:                    5.33 seconds
+Average waiting time:                46.18 seconds
+Throughput:                          0.1877 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-25
+Minimum CPU time:                    0.100000
+Maximum CPU time:                    0.500000
+Arrival rates:                       0.200000 per second
+The total number of jobs submitted:  25
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          48.5712 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-25
+Minimum CPU time:                    0.100000
+Maximum CPU time:                    1.000000
+Arrival rates:                       0.200000 per second
+The total number of jobs submitted:  25
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          48.7404 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-25
+Minimum CPU time:                    0.500000
+Maximum CPU time:                    1.000000
+Arrival rates:                       0.200000 per second
+The total number of jobs submitted:  25
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          48.4527 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-25
+Minimum CPU time:                    1.000000
+Maximum CPU time:                    10.000000
+Arrival rates:                       0.200000 per second
+The total number of jobs submitted:  25
+Average turnaround time:             44.82 seconds
+Average CPU time:                    4.73 seconds
+Average waiting time:                40.10 seconds
+Throughput:                          0.2115 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-25
+Minimum CPU time:                    0.100000
+Maximum CPU time:                    0.500000
+Arrival rates:                       0.500000 per second
+The total number of jobs submitted:  25
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          19.7826 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-25
+Minimum CPU time:                    0.100000
+Maximum CPU time:                    1.000000
+Arrival rates:                       0.500000 per second
+The total number of jobs submitted:  25
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          19.7957 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-25
+Minimum CPU time:                    0.500000
+Maximum CPU time:                    1.000000
+Arrival rates:                       0.500000 per second
+The total number of jobs submitted:  25
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          19.7730 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-25
+Minimum CPU time:                    1.000000
+Maximum CPU time:                    10.000000
+Arrival rates:                       0.500000 per second
+The total number of jobs submitted:  25
+Average turnaround time:             53.79 seconds
+Average CPU time:                    5.61 seconds
+Average waiting time:                48.18 seconds
+Throughput:                          0.1783 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-25
+Minimum CPU time:                    0.100000
+Maximum CPU time:                    0.500000
+Arrival rates:                       1.000000 per second
+The total number of jobs submitted:  25
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          9.9453 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-25
+Minimum CPU time:                    0.100000
+Maximum CPU time:                    1.000000
+Arrival rates:                       1.000000 per second
+The total number of jobs submitted:  25
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          9.9466 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-25
+Minimum CPU time:                    0.500000
+Maximum CPU time:                    1.000000
+Arrival rates:                       1.000000 per second
+The total number of jobs submitted:  25
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          9.9568 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-25
+Minimum CPU time:                    1.000000
+Maximum CPU time:                    10.000000
+Arrival rates:                       1.000000 per second
+The total number of jobs submitted:  25
+Average turnaround time:             40.94 seconds
+Average CPU time:                    4.81 seconds
+Average waiting time:                36.13 seconds
+Throughput:                          0.2080 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-5
+Minimum CPU time:                    0.100000
+Maximum CPU time:                    0.500000
+Arrival rates:                       0.100000 per second
+The total number of jobs submitted:  5
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          95.4016 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-5
+Minimum CPU time:                    0.100000
+Maximum CPU time:                    1.000000
+Arrival rates:                       0.100000 per second
+The total number of jobs submitted:  5
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          94.9577 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-5
+Minimum CPU time:                    0.500000
+Maximum CPU time:                    1.000000
+Arrival rates:                       0.100000 per second
+The total number of jobs submitted:  5
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          92.1693 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-5
+Minimum CPU time:                    1.000000
+Maximum CPU time:                    10.000000
+Arrival rates:                       0.100000 per second
+The total number of jobs submitted:  5
+Average turnaround time:             14.20 seconds
+Average CPU time:                    5.61 seconds
+Average waiting time:                8.60 seconds
+Throughput:                          0.1783 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-5
+Minimum CPU time:                    0.100000
+Maximum CPU time:                    0.500000
+Arrival rates:                       0.200000 per second
+The total number of jobs submitted:  5
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          48.4524 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-5
+Minimum CPU time:                    0.100000
+Maximum CPU time:                    1.000000
+Arrival rates:                       0.200000 per second
+The total number of jobs submitted:  5
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          48.4571 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-5
+Minimum CPU time:                    0.500000
+Maximum CPU time:                    1.000000
+Arrival rates:                       0.200000 per second
+The total number of jobs submitted:  5
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          48.8548 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-5
+Minimum CPU time:                    1.000000
+Maximum CPU time:                    10.000000
+Arrival rates:                       0.200000 per second
+The total number of jobs submitted:  5
+Average turnaround time:             5.18 seconds
+Average CPU time:                    2.41 seconds
+Average waiting time:                2.77 seconds
+Throughput:                          0.4153 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-5
+Minimum CPU time:                    0.100000
+Maximum CPU time:                    0.500000
+Arrival rates:                       0.500000 per second
+The total number of jobs submitted:  5
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          19.7848 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-5
+Minimum CPU time:                    0.100000
+Maximum CPU time:                    1.000000
+Arrival rates:                       0.500000 per second
+The total number of jobs submitted:  5
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          19.8089 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-5
+Minimum CPU time:                    0.500000
+Maximum CPU time:                    1.000000
+Arrival rates:                       0.500000 per second
+The total number of jobs submitted:  5
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          19.8122 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-5
+Minimum CPU time:                    1.000000
+Maximum CPU time:                    10.000000
+Arrival rates:                       0.500000 per second
+The total number of jobs submitted:  5
+Average turnaround time:             10.12 seconds
+Average CPU time:                    4.41 seconds
+Average waiting time:                5.72 seconds
+Throughput:                          0.2268 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-5
+Minimum CPU time:                    0.100000
+Maximum CPU time:                    0.500000
+Arrival rates:                       1.000000 per second
+The total number of jobs submitted:  5
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          9.9492 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-5
+Minimum CPU time:                    0.100000
+Maximum CPU time:                    1.000000
+Arrival rates:                       1.000000 per second
+The total number of jobs submitted:  5
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          9.9642 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-5
+Minimum CPU time:                    0.500000
+Maximum CPU time:                    1.000000
+Arrival rates:                       1.000000 per second
+The total number of jobs submitted:  5
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          9.9396 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-5
+Minimum CPU time:                    1.000000
+Maximum CPU time:                    10.000000
+Arrival rates:                       1.000000 per second
+The total number of jobs submitted:  5
+Average turnaround time:             10.62 seconds
+Average CPU time:                    4.21 seconds
+Average waiting time:                6.42 seconds
+Throughput:                          0.2376 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-10
+Minimum CPU time:                    0.100000
+Maximum CPU time:                    0.500000
+Arrival rates:                       0.100000 per second
+The total number of jobs submitted:  10
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          92.5155 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-10
+Minimum CPU time:                    0.100000
+Maximum CPU time:                    1.000000
+Arrival rates:                       0.100000 per second
+The total number of jobs submitted:  10
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          93.8861 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-10
+Minimum CPU time:                    0.500000
+Maximum CPU time:                    1.000000
+Arrival rates:                       0.100000 per second
+The total number of jobs submitted:  10
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          94.5761 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-10
+Minimum CPU time:                    1.000000
+Maximum CPU time:                    10.000000
+Arrival rates:                       0.100000 per second
+The total number of jobs submitted:  10
+Average turnaround time:             23.80 seconds
+Average CPU time:                    5.11 seconds
+Average waiting time:                18.69 seconds
+Throughput:                          0.1958 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-10
+Minimum CPU time:                    0.100000
+Maximum CPU time:                    0.500000
+Arrival rates:                       0.200000 per second
+The total number of jobs submitted:  10
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          48.6727 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-10
+Minimum CPU time:                    0.100000
+Maximum CPU time:                    1.000000
+Arrival rates:                       0.200000 per second
+The total number of jobs submitted:  10
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          48.4184 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-10
+Minimum CPU time:                    0.500000
+Maximum CPU time:                    1.000000
+Arrival rates:                       0.200000 per second
+The total number of jobs submitted:  10
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          48.5994 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-10
+Minimum CPU time:                    1.000000
+Maximum CPU time:                    10.000000
+Arrival rates:                       0.200000 per second
+The total number of jobs submitted:  10
+Average turnaround time:             30.05 seconds
+Average CPU time:                    6.51 seconds
+Average waiting time:                23.54 seconds
+Throughput:                          0.1536 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-10
+Minimum CPU time:                    0.100000
+Maximum CPU time:                    0.500000
+Arrival rates:                       0.500000 per second
+The total number of jobs submitted:  10
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          19.7973 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-10
+Minimum CPU time:                    0.100000
+Maximum CPU time:                    1.000000
+Arrival rates:                       0.500000 per second
+The total number of jobs submitted:  10
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          19.8520 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-10
+Minimum CPU time:                    0.500000
+Maximum CPU time:                    1.000000
+Arrival rates:                       0.500000 per second
+The total number of jobs submitted:  10
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          19.8236 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-10
+Minimum CPU time:                    1.000000
+Maximum CPU time:                    10.000000
+Arrival rates:                       0.500000 per second
+The total number of jobs submitted:  10
+Average turnaround time:             28.62 seconds
+Average CPU time:                    6.21 seconds
+Average waiting time:                22.41 seconds
+Throughput:                          0.1611 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-10
+Minimum CPU time:                    0.100000
+Maximum CPU time:                    0.500000
+Arrival rates:                       1.000000 per second
+The total number of jobs submitted:  10
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          9.9643 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-10
+Minimum CPU time:                    0.100000
+Maximum CPU time:                    1.000000
+Arrival rates:                       1.000000 per second
+The total number of jobs submitted:  10
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          9.9481 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-10
+Minimum CPU time:                    0.500000
+Maximum CPU time:                    1.000000
+Arrival rates:                       1.000000 per second
+The total number of jobs submitted:  10
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          9.9669 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-10
+Minimum CPU time:                    1.000000
+Maximum CPU time:                    10.000000
+Arrival rates:                       1.000000 per second
+The total number of jobs submitted:  10
+Average turnaround time:             25.69 seconds
+Average CPU time:                    5.81 seconds
+Average waiting time:                19.89 seconds
+Throughput:                          0.1722 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-15
+Minimum CPU time:                    0.100000
+Maximum CPU time:                    0.500000
+Arrival rates:                       0.100000 per second
+The total number of jobs submitted:  15
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          95.1475 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-15
+Minimum CPU time:                    0.100000
+Maximum CPU time:                    1.000000
+Arrival rates:                       0.100000 per second
+The total number of jobs submitted:  15
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          94.2158 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-15
+Minimum CPU time:                    0.500000
+Maximum CPU time:                    1.000000
+Arrival rates:                       0.100000 per second
+The total number of jobs submitted:  15
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          94.0386 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-15
+Minimum CPU time:                    1.000000
+Maximum CPU time:                    10.000000
+Arrival rates:                       0.100000 per second
+The total number of jobs submitted:  15
+Average turnaround time:             25.39 seconds
+Average CPU time:                    4.61 seconds
+Average waiting time:                20.78 seconds
+Throughput:                          0.2170 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-15
+Minimum CPU time:                    0.100000
+Maximum CPU time:                    0.500000
+Arrival rates:                       0.200000 per second
+The total number of jobs submitted:  15
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          48.3229 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-15
+Minimum CPU time:                    0.100000
+Maximum CPU time:                    1.000000
+Arrival rates:                       0.200000 per second
+The total number of jobs submitted:  15
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          48.2549 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-15
+Minimum CPU time:                    0.500000
+Maximum CPU time:                    1.000000
+Arrival rates:                       0.200000 per second
+The total number of jobs submitted:  15
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          48.3441 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-15
+Minimum CPU time:                    1.000000
+Maximum CPU time:                    10.000000
+Arrival rates:                       0.200000 per second
+The total number of jobs submitted:  15
+Average turnaround time:             32.85 seconds
+Average CPU time:                    5.41 seconds
+Average waiting time:                27.45 seconds
+Throughput:                          0.1849 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-15
+Minimum CPU time:                    0.100000
+Maximum CPU time:                    0.500000
+Arrival rates:                       0.500000 per second
+The total number of jobs submitted:  15
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          19.8219 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-15
+Minimum CPU time:                    0.100000
+Maximum CPU time:                    1.000000
+Arrival rates:                       0.500000 per second
+The total number of jobs submitted:  15
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          19.8480 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-15
+Minimum CPU time:                    0.500000
+Maximum CPU time:                    1.000000
+Arrival rates:                       0.500000 per second
+The total number of jobs submitted:  15
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          19.8005 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-15
+Minimum CPU time:                    1.000000
+Maximum CPU time:                    10.000000
+Arrival rates:                       0.500000 per second
+The total number of jobs submitted:  15
+Average turnaround time:             33.91 seconds
+Average CPU time:                    5.14 seconds
+Average waiting time:                28.77 seconds
+Throughput:                          0.1945 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-15
+Minimum CPU time:                    0.100000
+Maximum CPU time:                    0.500000
+Arrival rates:                       1.000000 per second
+The total number of jobs submitted:  15
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          9.9710 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-15
+Minimum CPU time:                    0.100000
+Maximum CPU time:                    1.000000
+Arrival rates:                       1.000000 per second
+The total number of jobs submitted:  15
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          9.9472 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-15
+Minimum CPU time:                    0.500000
+Maximum CPU time:                    1.000000
+Arrival rates:                       1.000000 per second
+The total number of jobs submitted:  15
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          9.9602 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-15
+Minimum CPU time:                    1.000000
+Maximum CPU time:                    10.000000
+Arrival rates:                       1.000000 per second
+The total number of jobs submitted:  15
+Average turnaround time:             30.17 seconds
+Average CPU time:                    5.14 seconds
+Average waiting time:                25.03 seconds
+Throughput:                          0.1945 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-20
+Minimum CPU time:                    0.100000
+Maximum CPU time:                    0.500000
+Arrival rates:                       0.100000 per second
+The total number of jobs submitted:  20
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          94.0694 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-20
+Minimum CPU time:                    0.100000
+Maximum CPU time:                    1.000000
+Arrival rates:                       0.100000 per second
+The total number of jobs submitted:  20
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          93.6005 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-20
+Minimum CPU time:                    0.500000
+Maximum CPU time:                    1.000000
+Arrival rates:                       0.100000 per second
+The total number of jobs submitted:  20
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          92.9848 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-20
+Minimum CPU time:                    1.000000
+Maximum CPU time:                    10.000000
+Arrival rates:                       0.100000 per second
+The total number of jobs submitted:  20
+Average turnaround time:             41.44 seconds
+Average CPU time:                    5.11 seconds
+Average waiting time:                36.33 seconds
+Throughput:                          0.1958 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-20
+Minimum CPU time:                    0.100000
+Maximum CPU time:                    0.500000
+Arrival rates:                       0.200000 per second
+The total number of jobs submitted:  20
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          48.2251 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-20
+Minimum CPU time:                    0.100000
+Maximum CPU time:                    1.000000
+Arrival rates:                       0.200000 per second
+The total number of jobs submitted:  20
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          48.2476 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-20
+Minimum CPU time:                    0.500000
+Maximum CPU time:                    1.000000
+Arrival rates:                       0.200000 per second
+The total number of jobs submitted:  20
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          48.4284 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-20
+Minimum CPU time:                    1.000000
+Maximum CPU time:                    10.000000
+Arrival rates:                       0.200000 per second
+The total number of jobs submitted:  20
+Average turnaround time:             35.09 seconds
+Average CPU time:                    4.26 seconds
+Average waiting time:                30.83 seconds
+Throughput:                          0.2348 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-20
+Minimum CPU time:                    0.100000
+Maximum CPU time:                    0.500000
+Arrival rates:                       0.500000 per second
+The total number of jobs submitted:  20
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          19.8303 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-20
+Minimum CPU time:                    0.100000
+Maximum CPU time:                    1.000000
+Arrival rates:                       0.500000 per second
+The total number of jobs submitted:  20
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          19.8053 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-20
+Minimum CPU time:                    0.500000
+Maximum CPU time:                    1.000000
+Arrival rates:                       0.500000 per second
+The total number of jobs submitted:  20
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          19.8410 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-20
+Minimum CPU time:                    1.000000
+Maximum CPU time:                    10.000000
+Arrival rates:                       0.500000 per second
+The total number of jobs submitted:  20
+Average turnaround time:             45.71 seconds
+Average CPU time:                    5.91 seconds
+Average waiting time:                39.80 seconds
+Throughput:                          0.1692 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-20
+Minimum CPU time:                    0.100000
+Maximum CPU time:                    0.500000
+Arrival rates:                       1.000000 per second
+The total number of jobs submitted:  20
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          9.9651 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-20
+Minimum CPU time:                    0.100000
+Maximum CPU time:                    1.000000
+Arrival rates:                       1.000000 per second
+The total number of jobs submitted:  20
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          9.9510 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-20
+Minimum CPU time:                    0.500000
+Maximum CPU time:                    1.000000
+Arrival rates:                       1.000000 per second
+The total number of jobs submitted:  20
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          9.9596 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-20
+Minimum CPU time:                    1.000000
+Maximum CPU time:                    10.000000
+Arrival rates:                       1.000000 per second
+The total number of jobs submitted:  20
+Average turnaround time:             23.18 seconds
+Average CPU time:                    3.66 seconds
+Average waiting time:                19.52 seconds
+Throughput:                          0.2734 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-25
+Minimum CPU time:                    0.100000
+Maximum CPU time:                    0.500000
+Arrival rates:                       0.100000 per second
+The total number of jobs submitted:  25
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          93.2046 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-25
+Minimum CPU time:                    0.100000
+Maximum CPU time:                    1.000000
+Arrival rates:                       0.100000 per second
+The total number of jobs submitted:  25
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          94.5019 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-25
+Minimum CPU time:                    0.500000
+Maximum CPU time:                    1.000000
+Arrival rates:                       0.100000 per second
+The total number of jobs submitted:  25
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          95.2029 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-25
+Minimum CPU time:                    1.000000
+Maximum CPU time:                    10.000000
+Arrival rates:                       0.100000 per second
+The total number of jobs submitted:  25
+Average turnaround time:             43.26 seconds
+Average CPU time:                    4.41 seconds
+Average waiting time:                38.86 seconds
+Throughput:                          0.2268 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-25
+Minimum CPU time:                    0.100000
+Maximum CPU time:                    0.500000
+Arrival rates:                       0.200000 per second
+The total number of jobs submitted:  25
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          48.9238 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-25
+Minimum CPU time:                    0.100000
+Maximum CPU time:                    1.000000
+Arrival rates:                       0.200000 per second
+The total number of jobs submitted:  25
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          48.2986 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-25
+Minimum CPU time:                    0.500000
+Maximum CPU time:                    1.000000
+Arrival rates:                       0.200000 per second
+The total number of jobs submitted:  25
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          48.6609 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-25
+Minimum CPU time:                    1.000000
+Maximum CPU time:                    10.000000
+Arrival rates:                       0.200000 per second
+The total number of jobs submitted:  25
+Average turnaround time:             47.02 seconds
+Average CPU time:                    4.89 seconds
+Average waiting time:                42.13 seconds
+Throughput:                          0.2046 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-25
+Minimum CPU time:                    0.100000
+Maximum CPU time:                    0.500000
+Arrival rates:                       0.500000 per second
+The total number of jobs submitted:  25
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          19.7258 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-25
+Minimum CPU time:                    0.100000
+Maximum CPU time:                    1.000000
+Arrival rates:                       0.500000 per second
+The total number of jobs submitted:  25
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          19.7754 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-25
+Minimum CPU time:                    0.500000
+Maximum CPU time:                    1.000000
+Arrival rates:                       0.500000 per second
+The total number of jobs submitted:  25
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          19.8058 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-25
+Minimum CPU time:                    1.000000
+Maximum CPU time:                    10.000000
+Arrival rates:                       0.500000 per second
+The total number of jobs submitted:  25
+Average turnaround time:             41.54 seconds
+Average CPU time:                    4.29 seconds
+Average waiting time:                37.25 seconds
+Throughput:                          0.2332 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-25
+Minimum CPU time:                    0.100000
+Maximum CPU time:                    0.500000
+Arrival rates:                       1.000000 per second
+The total number of jobs submitted:  25
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          9.9611 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-25
+Minimum CPU time:                    0.100000
+Maximum CPU time:                    1.000000
+Arrival rates:                       1.000000 per second
+The total number of jobs submitted:  25
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          9.9547 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-25
+Minimum CPU time:                    0.500000
+Maximum CPU time:                    1.000000
+Arrival rates:                       1.000000 per second
+The total number of jobs submitted:  25
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          9.9549 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-25
+Minimum CPU time:                    1.000000
+Maximum CPU time:                    10.000000
+Arrival rates:                       1.000000 per second
+The total number of jobs submitted:  25
+Average turnaround time:             50.98 seconds
+Average CPU time:                    5.09 seconds
+Average waiting time:                45.90 seconds
+Throughput:                          0.1965 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-5
+Minimum CPU time:                    0.100000
+Maximum CPU time:                    0.500000
+Arrival rates:                       0.100000 per second
+The total number of jobs submitted:  5
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          94.9289 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-5
+Minimum CPU time:                    0.100000
+Maximum CPU time:                    1.000000
+Arrival rates:                       0.100000 per second
+The total number of jobs submitted:  5
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          96.8917 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-5
+Minimum CPU time:                    0.500000
+Maximum CPU time:                    1.000000
+Arrival rates:                       0.100000 per second
+The total number of jobs submitted:  5
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          96.6482 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-5
+Minimum CPU time:                    1.000000
+Maximum CPU time:                    10.000000
+Arrival rates:                       0.100000 per second
+The total number of jobs submitted:  5
+Average turnaround time:             11.60 seconds
+Average CPU time:                    5.01 seconds
+Average waiting time:                6.59 seconds
+Throughput:                          0.1997 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-5
+Minimum CPU time:                    0.100000
+Maximum CPU time:                    0.500000
+Arrival rates:                       0.200000 per second
+The total number of jobs submitted:  5
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          49.0090 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-5
+Minimum CPU time:                    0.100000
+Maximum CPU time:                    1.000000
+Arrival rates:                       0.200000 per second
+The total number of jobs submitted:  5
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          48.7111 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-5
+Minimum CPU time:                    0.500000
+Maximum CPU time:                    1.000000
+Arrival rates:                       0.200000 per second
+The total number of jobs submitted:  5
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          48.2616 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-5
+Minimum CPU time:                    1.000000
+Maximum CPU time:                    10.000000
+Arrival rates:                       0.200000 per second
+The total number of jobs submitted:  5
+Average turnaround time:             11.58 seconds
+Average CPU time:                    5.01 seconds
+Average waiting time:                6.58 seconds
+Throughput:                          0.1997 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-5
+Minimum CPU time:                    0.100000
+Maximum CPU time:                    0.500000
+Arrival rates:                       0.500000 per second
+The total number of jobs submitted:  5
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          19.8401 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-5
+Minimum CPU time:                    0.100000
+Maximum CPU time:                    1.000000
+Arrival rates:                       0.500000 per second
+The total number of jobs submitted:  5
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          19.7192 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-5
+Minimum CPU time:                    0.500000
+Maximum CPU time:                    1.000000
+Arrival rates:                       0.500000 per second
+The total number of jobs submitted:  5
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          19.7666 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-5
+Minimum CPU time:                    1.000000
+Maximum CPU time:                    10.000000
+Arrival rates:                       0.500000 per second
+The total number of jobs submitted:  5
+Average turnaround time:             10.93 seconds
+Average CPU time:                    4.61 seconds
+Average waiting time:                6.32 seconds
+Throughput:                          0.2170 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-5
+Minimum CPU time:                    0.100000
+Maximum CPU time:                    0.500000
+Arrival rates:                       1.000000 per second
+The total number of jobs submitted:  5
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          9.9451 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-5
+Minimum CPU time:                    0.100000
+Maximum CPU time:                    1.000000
+Arrival rates:                       1.000000 per second
+The total number of jobs submitted:  5
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          9.9744 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-5
+Minimum CPU time:                    0.500000
+Maximum CPU time:                    1.000000
+Arrival rates:                       1.000000 per second
+The total number of jobs submitted:  5
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          9.9270 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-5
+Minimum CPU time:                    1.000000
+Maximum CPU time:                    10.000000
+Arrival rates:                       1.000000 per second
+The total number of jobs submitted:  5
+Average turnaround time:             16.42 seconds
+Average CPU time:                    6.01 seconds
+Average waiting time:                10.42 seconds
+Throughput:                          0.1664 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-10
+Minimum CPU time:                    0.100000
+Maximum CPU time:                    0.500000
+Arrival rates:                       0.100000 per second
+The total number of jobs submitted:  10
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          93.9744 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-10
+Minimum CPU time:                    0.100000
+Maximum CPU time:                    1.000000
+Arrival rates:                       0.100000 per second
+The total number of jobs submitted:  10
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          94.3049 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-10
+Minimum CPU time:                    0.500000
+Maximum CPU time:                    1.000000
+Arrival rates:                       0.100000 per second
+The total number of jobs submitted:  10
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          93.7928 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-10
+Minimum CPU time:                    1.000000
+Maximum CPU time:                    10.000000
+Arrival rates:                       0.100000 per second
+The total number of jobs submitted:  10
+Average turnaround time:             23.30 seconds
+Average CPU time:                    5.71 seconds
+Average waiting time:                17.59 seconds
+Throughput:                          0.1752 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-10
+Minimum CPU time:                    0.100000
+Maximum CPU time:                    0.500000
+Arrival rates:                       0.200000 per second
+The total number of jobs submitted:  10
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          48.2609 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-10
+Minimum CPU time:                    0.100000
+Maximum CPU time:                    1.000000
+Arrival rates:                       0.200000 per second
+The total number of jobs submitted:  10
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          48.5977 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-10
+Minimum CPU time:                    0.500000
+Maximum CPU time:                    1.000000
+Arrival rates:                       0.200000 per second
+The total number of jobs submitted:  10
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          47.9711 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-10
+Minimum CPU time:                    1.000000
+Maximum CPU time:                    10.000000
+Arrival rates:                       0.200000 per second
+The total number of jobs submitted:  10
+Average turnaround time:             22.75 seconds
+Average CPU time:                    4.91 seconds
+Average waiting time:                17.84 seconds
+Throughput:                          0.2037 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-10
+Minimum CPU time:                    0.100000
+Maximum CPU time:                    0.500000
+Arrival rates:                       0.500000 per second
+The total number of jobs submitted:  10
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          19.7756 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-10
+Minimum CPU time:                    0.100000
+Maximum CPU time:                    1.000000
+Arrival rates:                       0.500000 per second
+The total number of jobs submitted:  10
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          19.7872 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-10
+Minimum CPU time:                    0.500000
+Maximum CPU time:                    1.000000
+Arrival rates:                       0.500000 per second
+The total number of jobs submitted:  10
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          19.7807 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-10
+Minimum CPU time:                    1.000000
+Maximum CPU time:                    10.000000
+Arrival rates:                       0.500000 per second
+The total number of jobs submitted:  10
+Average turnaround time:             22.71 seconds
+Average CPU time:                    4.81 seconds
+Average waiting time:                17.90 seconds
+Throughput:                          0.2080 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-10
+Minimum CPU time:                    0.100000
+Maximum CPU time:                    0.500000
+Arrival rates:                       1.000000 per second
+The total number of jobs submitted:  10
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          9.9521 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-10
+Minimum CPU time:                    0.100000
+Maximum CPU time:                    1.000000
+Arrival rates:                       1.000000 per second
+The total number of jobs submitted:  10
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          9.9153 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-10
+Minimum CPU time:                    0.500000
+Maximum CPU time:                    1.000000
+Arrival rates:                       1.000000 per second
+The total number of jobs submitted:  10
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          9.9452 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-10
+Minimum CPU time:                    1.000000
+Maximum CPU time:                    10.000000
+Arrival rates:                       1.000000 per second
+The total number of jobs submitted:  10
+Average turnaround time:             14.39 seconds
+Average CPU time:                    3.61 seconds
+Average waiting time:                10.78 seconds
+Throughput:                          0.2771 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-15
+Minimum CPU time:                    0.100000
+Maximum CPU time:                    0.500000
+Arrival rates:                       0.100000 per second
+The total number of jobs submitted:  15
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          95.0438 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-15
+Minimum CPU time:                    0.100000
+Maximum CPU time:                    1.000000
+Arrival rates:                       0.100000 per second
+The total number of jobs submitted:  15
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          94.1041 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-15
+Minimum CPU time:                    0.500000
+Maximum CPU time:                    1.000000
+Arrival rates:                       0.100000 per second
+The total number of jobs submitted:  15
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          95.0739 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-15
+Minimum CPU time:                    1.000000
+Maximum CPU time:                    10.000000
+Arrival rates:                       0.100000 per second
+The total number of jobs submitted:  15
+Average turnaround time:             32.66 seconds
+Average CPU time:                    4.94 seconds
+Average waiting time:                27.72 seconds
+Throughput:                          0.2024 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-15
+Minimum CPU time:                    0.100000
+Maximum CPU time:                    0.500000
+Arrival rates:                       0.200000 per second
+The total number of jobs submitted:  15
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          48.6145 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-15
+Minimum CPU time:                    0.100000
+Maximum CPU time:                    1.000000
+Arrival rates:                       0.200000 per second
+The total number of jobs submitted:  15
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          48.6375 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-15
+Minimum CPU time:                    0.500000
+Maximum CPU time:                    1.000000
+Arrival rates:                       0.200000 per second
+The total number of jobs submitted:  15
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          48.6373 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-15
+Minimum CPU time:                    1.000000
+Maximum CPU time:                    10.000000
+Arrival rates:                       0.200000 per second
+The total number of jobs submitted:  15
+Average turnaround time:             45.92 seconds
+Average CPU time:                    6.74 seconds
+Average waiting time:                39.18 seconds
+Throughput:                          0.1483 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-15
+Minimum CPU time:                    0.100000
+Maximum CPU time:                    0.500000
+Arrival rates:                       0.500000 per second
+The total number of jobs submitted:  15
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          19.7861 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-15
+Minimum CPU time:                    0.100000
+Maximum CPU time:                    1.000000
+Arrival rates:                       0.500000 per second
+The total number of jobs submitted:  15
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          19.7613 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-15
+Minimum CPU time:                    0.500000
+Maximum CPU time:                    1.000000
+Arrival rates:                       0.500000 per second
+The total number of jobs submitted:  15
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          19.8049 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-15
+Minimum CPU time:                    1.000000
+Maximum CPU time:                    10.000000
+Arrival rates:                       0.500000 per second
+The total number of jobs submitted:  15
+Average turnaround time:             29.91 seconds
+Average CPU time:                    4.94 seconds
+Average waiting time:                24.97 seconds
+Throughput:                          0.2024 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-15
+Minimum CPU time:                    0.100000
+Maximum CPU time:                    0.500000
+Arrival rates:                       1.000000 per second
+The total number of jobs submitted:  15
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          9.9413 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-15
+Minimum CPU time:                    0.100000
+Maximum CPU time:                    1.000000
+Arrival rates:                       1.000000 per second
+The total number of jobs submitted:  15
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          9.9576 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-15
+Minimum CPU time:                    0.500000
+Maximum CPU time:                    1.000000
+Arrival rates:                       1.000000 per second
+The total number of jobs submitted:  15
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          9.9607 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-15
+Minimum CPU time:                    1.000000
+Maximum CPU time:                    10.000000
+Arrival rates:                       1.000000 per second
+The total number of jobs submitted:  15
+Average turnaround time:             27.83 seconds
+Average CPU time:                    4.67 seconds
+Average waiting time:                23.15 seconds
+Throughput:                          0.2139 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-20
+Minimum CPU time:                    0.100000
+Maximum CPU time:                    0.500000
+Arrival rates:                       0.100000 per second
+The total number of jobs submitted:  20
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          93.4501 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-20
+Minimum CPU time:                    0.100000
+Maximum CPU time:                    1.000000
+Arrival rates:                       0.100000 per second
+The total number of jobs submitted:  20
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          93.5546 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-20
+Minimum CPU time:                    0.500000
+Maximum CPU time:                    1.000000
+Arrival rates:                       0.100000 per second
+The total number of jobs submitted:  20
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          94.1699 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-20
+Minimum CPU time:                    1.000000
+Maximum CPU time:                    10.000000
+Arrival rates:                       0.100000 per second
+The total number of jobs submitted:  20
+Average turnaround time:             36.49 seconds
+Average CPU time:                    4.71 seconds
+Average waiting time:                31.78 seconds
+Throughput:                          0.2124 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-20
+Minimum CPU time:                    0.100000
+Maximum CPU time:                    0.500000
+Arrival rates:                       0.200000 per second
+The total number of jobs submitted:  20
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          48.2762 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-20
+Minimum CPU time:                    0.100000
+Maximum CPU time:                    1.000000
+Arrival rates:                       0.200000 per second
+The total number of jobs submitted:  20
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          48.4012 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-20
+Minimum CPU time:                    0.500000
+Maximum CPU time:                    1.000000
+Arrival rates:                       0.200000 per second
+The total number of jobs submitted:  20
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          48.3717 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-20
+Minimum CPU time:                    1.000000
+Maximum CPU time:                    10.000000
+Arrival rates:                       0.200000 per second
+The total number of jobs submitted:  20
+Average turnaround time:             31.43 seconds
+Average CPU time:                    3.81 seconds
+Average waiting time:                27.62 seconds
+Throughput:                          0.2626 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-20
+Minimum CPU time:                    0.100000
+Maximum CPU time:                    0.500000
+Arrival rates:                       0.500000 per second
+The total number of jobs submitted:  20
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          19.6523 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-20
+Minimum CPU time:                    0.100000
+Maximum CPU time:                    1.000000
+Arrival rates:                       0.500000 per second
+The total number of jobs submitted:  20
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          19.6836 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-20
+Minimum CPU time:                    0.500000
+Maximum CPU time:                    1.000000
+Arrival rates:                       0.500000 per second
+The total number of jobs submitted:  20
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          19.6894 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-20
+Minimum CPU time:                    1.000000
+Maximum CPU time:                    10.000000
+Arrival rates:                       0.500000 per second
+The total number of jobs submitted:  20
+Average turnaround time:             41.71 seconds
+Average CPU time:                    5.46 seconds
+Average waiting time:                36.25 seconds
+Throughput:                          0.1832 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-20
+Minimum CPU time:                    0.100000
+Maximum CPU time:                    0.500000
+Arrival rates:                       1.000000 per second
+The total number of jobs submitted:  20
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          9.9481 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-20
+Minimum CPU time:                    0.100000
+Maximum CPU time:                    1.000000
+Arrival rates:                       1.000000 per second
+The total number of jobs submitted:  20
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          9.9440 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-20
+Minimum CPU time:                    0.500000
+Maximum CPU time:                    1.000000
+Arrival rates:                       1.000000 per second
+The total number of jobs submitted:  20
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          9.9473 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-20
+Minimum CPU time:                    1.000000
+Maximum CPU time:                    10.000000
+Arrival rates:                       1.000000 per second
+The total number of jobs submitted:  20
+Average turnaround time:             42.28 seconds
+Average CPU time:                    5.21 seconds
+Average waiting time:                37.08 seconds
+Throughput:                          0.1920 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-25
+Minimum CPU time:                    0.100000
+Maximum CPU time:                    0.500000
+Arrival rates:                       0.100000 per second
+The total number of jobs submitted:  25
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          92.8795 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-25
+Minimum CPU time:                    0.100000
+Maximum CPU time:                    1.000000
+Arrival rates:                       0.100000 per second
+The total number of jobs submitted:  25
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          93.0766 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-25
+Minimum CPU time:                    0.500000
+Maximum CPU time:                    1.000000
+Arrival rates:                       0.100000 per second
+The total number of jobs submitted:  25
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          92.2312 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-25
+Minimum CPU time:                    1.000000
+Maximum CPU time:                    10.000000
+Arrival rates:                       0.100000 per second
+The total number of jobs submitted:  25
+Average turnaround time:             45.81 seconds
+Average CPU time:                    4.93 seconds
+Average waiting time:                40.88 seconds
+Throughput:                          0.2028 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-25
+Minimum CPU time:                    0.100000
+Maximum CPU time:                    0.500000
+Arrival rates:                       0.200000 per second
+The total number of jobs submitted:  25
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          47.8027 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-25
+Minimum CPU time:                    0.100000
+Maximum CPU time:                    1.000000
+Arrival rates:                       0.200000 per second
+The total number of jobs submitted:  25
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          48.4081 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-25
+Minimum CPU time:                    0.500000
+Maximum CPU time:                    1.000000
+Arrival rates:                       0.200000 per second
+The total number of jobs submitted:  25
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          47.9672 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-25
+Minimum CPU time:                    1.000000
+Maximum CPU time:                    10.000000
+Arrival rates:                       0.200000 per second
+The total number of jobs submitted:  25
+Average turnaround time:             52.94 seconds
+Average CPU time:                    5.45 seconds
+Average waiting time:                47.49 seconds
+Throughput:                          0.1835 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-25
+Minimum CPU time:                    0.100000
+Maximum CPU time:                    0.500000
+Arrival rates:                       0.500000 per second
+The total number of jobs submitted:  25
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          19.7589 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-25
+Minimum CPU time:                    0.100000
+Maximum CPU time:                    1.000000
+Arrival rates:                       0.500000 per second
+The total number of jobs submitted:  25
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          19.8379 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-25
+Minimum CPU time:                    0.500000
+Maximum CPU time:                    1.000000
+Arrival rates:                       0.500000 per second
+The total number of jobs submitted:  25
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          19.7520 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-25
+Minimum CPU time:                    1.000000
+Maximum CPU time:                    10.000000
+Arrival rates:                       0.500000 per second
+The total number of jobs submitted:  25
+Average turnaround time:             34.66 seconds
+Average CPU time:                    4.13 seconds
+Average waiting time:                30.53 seconds
+Throughput:                          0.2422 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-25
+Minimum CPU time:                    0.100000
+Maximum CPU time:                    0.500000
+Arrival rates:                       1.000000 per second
+The total number of jobs submitted:  25
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          9.9516 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-25
+Minimum CPU time:                    0.100000
+Maximum CPU time:                    1.000000
+Arrival rates:                       1.000000 per second
+The total number of jobs submitted:  25
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          9.9486 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-25
+Minimum CPU time:                    0.500000
+Maximum CPU time:                    1.000000
+Arrival rates:                       1.000000 per second
+The total number of jobs submitted:  25
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          9.9474 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-25
+Minimum CPU time:                    1.000000
+Maximum CPU time:                    10.000000
+Arrival rates:                       1.000000 per second
+The total number of jobs submitted:  25
+Average turnaround time:             30.99 seconds
+Average CPU time:                    3.65 seconds
+Average waiting time:                27.34 seconds
+Throughput:                          0.2741 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-5
+Minimum CPU time:                    0.100000
+Maximum CPU time:                    0.500000
+Arrival rates:                       0.100000 per second
+The total number of jobs submitted:  5
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          93.9038 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-5
+Minimum CPU time:                    0.100000
+Maximum CPU time:                    1.000000
+Arrival rates:                       0.100000 per second
+The total number of jobs submitted:  5
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          93.0665 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-5
+Minimum CPU time:                    0.500000
+Maximum CPU time:                    1.000000
+Arrival rates:                       0.100000 per second
+The total number of jobs submitted:  5
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          91.9760 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-5
+Minimum CPU time:                    1.000000
+Maximum CPU time:                    10.000000
+Arrival rates:                       0.100000 per second
+The total number of jobs submitted:  5
+Average turnaround time:             7.20 seconds
+Average CPU time:                    3.01 seconds
+Average waiting time:                4.19 seconds
+Throughput:                          0.3324 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-5
+Minimum CPU time:                    0.100000
+Maximum CPU time:                    0.500000
+Arrival rates:                       0.200000 per second
+The total number of jobs submitted:  5
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          49.0167 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-5
+Minimum CPU time:                    0.100000
+Maximum CPU time:                    1.000000
+Arrival rates:                       0.200000 per second
+The total number of jobs submitted:  5
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          47.8886 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-5
+Minimum CPU time:                    0.500000
+Maximum CPU time:                    1.000000
+Arrival rates:                       0.200000 per second
+The total number of jobs submitted:  5
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          48.6443 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-5
+Minimum CPU time:                    1.000000
+Maximum CPU time:                    10.000000
+Arrival rates:                       0.200000 per second
+The total number of jobs submitted:  5
+Average turnaround time:             9.98 seconds
+Average CPU time:                    3.81 seconds
+Average waiting time:                6.17 seconds
+Throughput:                          0.2626 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-5
+Minimum CPU time:                    0.100000
+Maximum CPU time:                    0.500000
+Arrival rates:                       0.500000 per second
+The total number of jobs submitted:  5
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          19.6906 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-5
+Minimum CPU time:                    0.100000
+Maximum CPU time:                    1.000000
+Arrival rates:                       0.500000 per second
+The total number of jobs submitted:  5
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          19.6720 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-5
+Minimum CPU time:                    0.500000
+Maximum CPU time:                    1.000000
+Arrival rates:                       0.500000 per second
+The total number of jobs submitted:  5
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          19.7283 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-5
+Minimum CPU time:                    1.000000
+Maximum CPU time:                    10.000000
+Arrival rates:                       0.500000 per second
+The total number of jobs submitted:  5
+Average turnaround time:             14.12 seconds
+Average CPU time:                    6.01 seconds
+Average waiting time:                8.11 seconds
+Throughput:                          0.1664 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-5
+Minimum CPU time:                    0.100000
+Maximum CPU time:                    0.500000
+Arrival rates:                       1.000000 per second
+The total number of jobs submitted:  5
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          9.9291 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-5
+Minimum CPU time:                    0.100000
+Maximum CPU time:                    1.000000
+Arrival rates:                       1.000000 per second
+The total number of jobs submitted:  5
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          9.9344 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-5
+Minimum CPU time:                    0.500000
+Maximum CPU time:                    1.000000
+Arrival rates:                       1.000000 per second
+The total number of jobs submitted:  5
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          9.9545 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-5
+Minimum CPU time:                    1.000000
+Maximum CPU time:                    10.000000
+Arrival rates:                       1.000000 per second
+The total number of jobs submitted:  5
+Average turnaround time:             13.03 seconds
+Average CPU time:                    5.01 seconds
+Average waiting time:                8.02 seconds
+Throughput:                          0.1996 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-10
+Minimum CPU time:                    0.100000
+Maximum CPU time:                    0.500000
+Arrival rates:                       0.100000 per second
+The total number of jobs submitted:  10
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          91.5659 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-10
+Minimum CPU time:                    0.100000
+Maximum CPU time:                    1.000000
+Arrival rates:                       0.100000 per second
+The total number of jobs submitted:  10
+Average turnaround time:             0.01 seconds
+Average CPU time:                    0.01 seconds
+Average waiting time:                0.00 seconds
+Throughput:                          93.3071 No./second
+
+Workload Conditions for test: 
+Priority Range:                      0-10
+Minimum CPU time:                    0.500000
+Maximum CPU time:                    1.000000
+Arrival rates:                       0.100000 per second
+The total number of jobs submitted:  10
+Average turnaround time:         
