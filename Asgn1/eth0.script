@@ -1,0 +1,11 @@
+Script started on 2021-01-20 21:22:02-0600
+(base) ]0;atl0016@DESKTOP-E0RUC10: ~[01;32matl0016@DESKTOP-E0RUC10[00m:[01;34m~[00m$ cd /
+(base) ]0;atl0016@DESKTOP-E0RUC10: /[01;32matl0016@DESKTOP-E0RUC10[00m:[01;34m/[00m$ cd etc/udev/rules.d/
+(base) ]0;atl0016@DESKTOP-E0RUC10: /etc/udev/rules.d[01;32matl0016@DESKTOP-E0RUC10[00m:[01;34m/etc/udev/rules.d[00m$ ll
+total 0
+drwxr-xr-x 1 root root 512 Apr 20  2018 [0m[01;34m.[0m/
+drwxr-xr-x 1 root root 512 Oct  2  2019 [01;34m..[0m/
+(base) ]0;atl0016@DESKTOP-E0RUC10: /etc/udev/rules.d[01;32matl0016@DESKTOP-E0RUC10[00m:[01;34m/etc/udev/rules.d[00m$ exit
+exit
+
+Script done on 2021-01-20 21:22:26-0600

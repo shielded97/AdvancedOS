@@ -1,0 +1,98 @@
+Script started on 2021-01-20 15:58:35-0600
+(base) ]0;atl0016@DESKTOP-E0RUC10: ~[01;32matl0016@DESKTOP-E0RUC10[00m:[01;34m~[00m$ gcc --version
+gcc (Ubuntu 7.5.0-3ubuntu1~18.04) 7.5.0
+Copyright (C) 2017 Free Software Foundation, Inc.
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+
+(base) ]0;atl0016@DESKTOP-E0RUC10: ~[01;32matl0016@DESKTOP-E0RUC10[00m:[01;34m~[00m$ g++ --version
+g++ (Ubuntu 7.5.0-3ubuntu1~18.04) 7.5.0
+Copyright (C) 2017 Free Software Foundation, Inc.
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+
+(base) ]0;atl0016@DESKTOP-E0RUC10: ~[01;32matl0016@DESKTOP-E0RUC10[00m:[01;34m~[00m$ emacs --version
+GNU Emacs 25.2.2
+Copyright (C) 2017 Free Software Foundation, Inc.
+GNU Emacs comes with ABSOLUTELY NO WARRANTY.
+You may redistribute copies of GNU Emacs
+under the terms of the GNU General Public License.
+For more information about these matters, see the file named COPYING.
+(base) ]0;atl0016@DESKTOP-E0RUC10: ~[01;32matl0016@DESKTOP-E0RUC10[00m:[01;34m~[00m$ vi --version
+VIM - Vi IMproved 8.0 (2016 Sep 12, compiled Jun 06 2019 17:31:41)
+Included patches: 1-1453
+Modified by pkg-vim-maintainers@lists.alioth.debian.org
+Compiled by pkg-vim-maintainers@lists.alioth.debian.org
+Huge version without GUI.  Features included (+) or not (-):
++acl               +farsi             +mouse_sgr         -tag_any_white
++arabic            +file_in_path      -mouse_sysmouse    -tcl
++autocmd           +find_in_path      +mouse_urxvt       +termguicolors
+-autoservername    +float             +mouse_xterm       +terminal
+-balloon_eval      +folding           +multi_byte        +terminfo
++balloon_eval_term -footer            +multi_lang        +termresponse
+-browse            +fork()            -mzscheme          +textobjects
+++builtin_terms    +gettext           +netbeans_intg     +timers
++byte_offset       -hangul_input      +num64             +title
++channel           +iconv             +packages          -toolbar
++cindent           +insert_expand     +path_extra        +user_commands
+-clientserver      +job               -perl              +vertsplit
+-clipboard         +jumplist          +persistent_undo   +virtualedit
++cmdline_compl     +keymap            +postscript        +visual
++cmdline_hist      +lambda            +printer           +visualextra
++cmdline_info      +langmap           +profile           +viminfo
++comments          +libcall           -python            +vreplace
++conceal           +linebreak         +python3           +wildignore
++cryptv            +lispindent        +quickfix          +wildmenu
++cscope            +listcmds          +reltime           +windows
++cursorbind        +localmap          +rightleft         +writebackup
++cursorshape       -lua               -ruby              -X11
++dialog_con        +menu              +scrollbind        -xfontset
++diff              +mksession         +signs             -xim
++digraphs          +modify_fname      +smartindent       -xpm
+-dnd               +mouse             +startuptime       -xsmp
+-ebcdic            -mouseshape        +statusline        -xterm_clipboard
++emacs_tags        +mouse_dec         -sun_workshop      -xterm_save
++eval              +mouse_gpm         +syntax            
++ex_extra          -mouse_jsbterm     +tag_binary        
++extra_search      +mouse_netterm     +tag_old_static    
+   system vimrc file: "$VIM/vimrc"
+     user vimrc file: "$HOME/.vimrc"
+ 2nd user vimrc file: "~/.vim/vimrc"
+      user exrc file: "$HOME/.exrc"
+       defaults file: "$VIMRUNTIME/defaults.vim"
+  fall-back for $VIM: "/usr/share/vim"
+Compilation: gcc -c -I. -Iproto -DHAVE_CONFIG_H   -Wdate-time  -g -O2 -fdebug-prefix-map=/build/vim-8l5tlu/vim-8.0.1453=. -fstack-protector-strong -Wformat -Werror=format-security -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=1       
+Linking: gcc   -Wl,-Bsymbolic-functions -Wl,-z,relro -Wl,-z,now -Wl,--as-needed -o vim        -lm -ltinfo -lnsl  -lselinux  -lacl -lattr -lgpm -ldl     -L/usr/lib/python3.6/config-3.6m-x86_64-linux-gnu -lpython3.6m -lpthread -ldl -lutil -lm      
+(base) ]0;atl0016@DESKTOP-E0RUC10: ~[01;32matl0016@DESKTOP-E0RUC10[00m:[01;34m~[00m$ gdb --version
+GNU gdb (Ubuntu 8.1-0ubuntu3.1) 8.1.0.20180409-git
+Copyright (C) 2018 Free Software Foundation, Inc.
+License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>
+This is free software: you are free to change and redistribute it.
+There is NO WARRANTY, to the extent permitted by law.  Type "show copying"
+and "show warranty" for details.
+This GDB was configured as "x86_64-linux-gnu".
+Type "show configuration" for configuration details.
+For bug reporting instructions, please see:
+<http://www.gnu.org/software/gdb/bugs/>.
+Find the GDB manual and other documentation resources online at:
+<http://www.gnu.org/software/gdb/documentation/>.
+For help, type "help".
+Type "apropos word" to search for commands related to "word".
+(base) ]0;atl0016@DESKTOP-E0RUC10: ~[01;32matl0016@DESKTOP-E0RUC10[00m:[01;34m~[00m$ ethtool --version
+ethtool version 4.15
+(base) ]0;atl0016@DESKTOP-E0RUC10: ~[01;32matl0016@DESKTOP-E0RUC10[00m:[01;34m~[00m$ hdparm -V
+hdparm v9.54
+(base) ]0;atl0016@DESKTOP-E0RUC10: ~[01;32matl0016@DESKTOP-E0RUC10[00m:[01;34m~[00m$ file --version
+file-5.32
+magic file from /etc/magic:/usr/share/misc/magic
+(base) ]0;atl0016@DESKTOP-E0RUC10: ~[01;32matl0016@DESKTOP-E0RUC10[00m:[01;34m~[00m$ file --version[5Phdparm -Vethtool --version[4Pgdb[C[C[C[C[C[C[C[C[C[C[1Pvi[C[C[C[C[C[C[C[C[C[C[3@emacs[C[C[C[C[C[C[C[C[C[C[2Pg++[C[C[C[C[C[C[C[C[C[Ccc[C[C[C[C[C[C[C[C[C[Cexit[Kconda activate advossudo apt install emacs25[5P-get update install emacs25[4Pconda activate advosexit[Kgcc --version++[C[C[C[C[C[C[C[C[C[C[2@emacs[C[C[C[C[C[C[C[C[C[C[3Pvi[C[C[C[C[C[C[C[C[C[C[1@gdb[C[C[C[C[C[C[C[C[C[C[4@ethtool[C[C[C[C[C[C[C[C[C[C[8Phdparm -Vfile --version[Ksudo apt-get install pciutils
+[sudo] password for atl0016: 
+Reading package lists... 0%Reading package lists... 100%Reading package lists... Done
+Building dependency tree... 0%Building dependency tree... 0%Building dependency tree... 50%Building dependency tree... 50%Building dependency tree       
+Reading state information... 0%Reading state information... 0%Reading state information... Done
+pciutils is already the newest version (1:3.5.2-1ubuntu1.1).
+0 upgraded, 0 newly installed, 0 to remove and 254 not upgraded.
+(base) ]0;atl0016@DESKTOP-E0RUC10: ~[01;32matl0016@DESKTOP-E0RUC10[00m:[01;34m~[00m$ exit
+exit
+
+Script done on 2021-01-20 16:01:42-0600

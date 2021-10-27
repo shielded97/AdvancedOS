@@ -1,0 +1,339 @@
+Script started on 2021-01-20 16:20:34-0600
+(base) ]0;atl0016@DESKTOP-E0RUC10: ~/advOs[01;32matl0016@DESKTOP-E0RUC10[00m:[01;34m~/advOs[00m$ cd ../operatingSystems/asgn1/[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kmv ../operatingSystems/asgn1/simple.c ../[K[K
+(base) ]0;atl0016@DESKTOP-E0RUC10: ~/advOs[01;32matl0016@DESKTOP-E0RUC10[00m:[01;34m~/advOs[00m$ ls
+cpuinfo.txt  hardware.script  ifconfig.txt         interrupts.txt  meminfo.txt         sda.txt
+eth0.txt     hda.txt          installation.script  lspci.txt       programming.script  simple.c
+(base) ]0;atl0016@DESKTOP-E0RUC10: ~/advOs[01;32matl0016@DESKTOP-E0RUC10[00m:[01;34m~/advOs[00m$ vi simple.c 
+[?2004h[?1049h[22;0;0t[?1h=[?2004h[1;63r[?12h[?12l[27m[23m[29m[m[H[2J[?25l[63;1H"simple.c" 27L, 484C[2;1H▽[6n[2;1H  [1;1H[>c]10;?]11;?[1;1H[34m/* read an array of [m[31m10[m[34m numbers, calculate the average of their square roots, print the result
+ * Aidan Lambrecht
+ * Operating Systems
+ * Assignment [m[31m1[m[34m 
+ */[m
+
+[35m#include [m[31m<stdio.h>[m
+[35m#include [m[31m<math.h>[m
+
+[32mint[m main()
+{[12;9H[32mint[m arr[] = { [31m1[m, [31m2[m, [31m3[m, [31m4[m, [31m5[m, [31m6[m, [31m7[m, [31m8[m, [31m9[m, [31m10[m };[13;9H[32mdouble[m sum = [31m0[m;[14;9H[32mint[m x;[16;9H[38;5;130mfor[m ( x = [31m0[m; x < [31m10[m; x++)[17;9H{[18;17Hsum = sum + sqrt(arr[x]);[19;9H}[21;9H[32mdouble[m avg = sum / [31m10[m;[23;9Hprintf([31m"Average of the square roots of 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 = "[m);[24;9Hprintf([31m"[m[35m%lf[m[31m [m[35m\n[m[31m"[m, avg);[26;9H[38;5;130mreturn[m [31m0[m;
+}
+[94m~                                                                                                                    [29;1H~                                                                                                                    [30;1H~                                                                                                                    [31;1H~                                                                                                                    [32;1H~                                                                                                                    [33;1H~                                                                                                                    [34;1H~                                                                                                                    [35;1H~                                                                                                                    [36;1H~                                                                                                                    [37;1H~                                                                                                                    [38;1H~                                                                                                                    [39;1H~                                                                                                                    [40;1H~                                                                                                                    [41;1H~                                                                                                                    [42;1H~                                                                                                                    [43;1H~                                                                                                                    [44;1H~                                                                                                                    [45;1H~                                                                                                                    [46;1H~                                                                                                                    [47;1H~                                                                                                                    [48;1H~                                                                                                                    [49;1H~                                                                                                                    [50;1H~                                                                                                                    [51;1H~                                                                                                                    [52;1H~                                                                                                                    [53;1H~                                                                                                                    [54;1H~                                                                                                                    [55;1H~                                                                                                                    [56;1H~                                                                                                                    [57;1H~                                                                                                                    [58;1H~                                                                                                                    [59;1H~                                                                                                                    [60;1H~                                                                                                                    [61;1H~                                                                                                                    [62;1H~                                                                                                                    [m[63;100H1,1[11CAll[1;1H[?25h[?25l[63;90H:[1;1H[63;1H[K[63;1H:[?2004h[?25hc[?25l[?25ho[?25l[?25hl[?25l[?25ho[?25l[?25hr[?25l[?25h[?25l [?25hd[?25l[?25he[?25l[?25hs[?25l[?25he[?25l[?25hr[?25l[?25ht[?25l[?25h[?25l[1;1H[27m[23m[29m[m[H[2J[1;1H[36m/* read an array of [m[38;5;130m10[m[36m numbers, calculate the average of their square roots, print the result
+ * Aidan Lambrecht
+ * Operating Systems
+ * Assignment [m[38;5;130m1[m[36m 
+ */[m
+
+[35m#include [m[38;5;130m<stdio.h>[m
+[35m#include [m[38;5;130m<math.h>[m
+
+[32mint[m main()
+{[12;9H[32mint[m arr[] = { [38;5;130m1[m, [38;5;130m2[m, [38;5;130m3[m, [38;5;130m4[m, [38;5;130m5[m, [38;5;130m6[m, [38;5;130m7[m, [38;5;130m8[m, [38;5;130m9[m, [38;5;130m10[m };[13;9H[32mdouble[m sum = [38;5;130m0[m;[14;9H[32mint[m x;[16;9H[33mfor[m ( x = [38;5;130m0[m; x < [38;5;130m10[m; x++)[17;9H{[18;17Hsum = sum + sqrt(arr[x]);[19;9H}[21;9H[32mdouble[m avg = sum / [38;5;130m10[m;[23;9Hprintf([38;5;130m"Average of the square roots of 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 = "[m);[24;9Hprintf([38;5;130m"[m[35m%lf[m[38;5;130m [m[35m\n[m[38;5;130m"[m, avg);[26;9H[33mreturn[m [38;5;130m0[m;
+}
+[1m[34m~                                                                                                                    [29;1H~                                                                                                                    [30;1H~                                                                                                                    [31;1H~                                                                                                                    [32;1H~                                                                                                                    [33;1H~                                                                                                                    [34;1H~                                                                                                                    [35;1H~                                                                                                                    [36;1H~                                                                                                                    [37;1H~                                                                                                                    [38;1H~                                                                                                                    [39;1H~                                                                                                                    [40;1H~                                                                                                                    [41;1H~                                                                                                                    [42;1H~                                                                                                                    [43;1H~                                                                                                                    [44;1H~                                                                                                                    [45;1H~                                                                                                                    [46;1H~                                                                                                                    [47;1H~                                                                                                                    [48;1H~                                                                                                                    [49;1H~                                                                                                                    [50;1H~                                                                                                                    [51;1H~                                                                                                                    [52;1H~                                                                                                                    [53;1H~                                                                                                                    [54;1H~                                                                                                                    [55;1H~                                                                                                                    [56;1H~                                                                                                                    [57;1H~                                                                                                                    [58;1H~                                                                                                                    [59;1H~                                                                                                                    [60;1H~                                                                                                                    [61;1H~                                                                                                                    [62;1H~                                                                                                                    [m[63;100H1,1[11CAll[1;1H[?25h[?25l[63;90H~@k[1;1H[63;90H   [2;1H[63;100H2[2;1H[?25h[?25l[63;90H~@k[2;1H[63;90H   [3;1H[63;100H3[3;1H[?25h[?25l[63;90H~@k[3;1H[63;90H   [4;1H[63;100H4[4;1H[?25h[?25l[63;90H~@k[4;1H[63;90H   [5;1H[63;100H5[5;1H[?25h[?25l[63;90H~@k[5;1H[63;90H   [6;1H[63;100H6,0-1[6;1H[?25h[?25l[63;90H~@k[6;1H[63;90H   [7;1H[63;100H7,1  [7;1H[?25h[?25l[63;90H~@k[7;1H[63;90H   [8;1H[63;100H8[8;1H[?25h[?25l[63;90H~@k[8;1H[63;90H   [7;1H[63;100H7[7;1H[?25h[?25l[63;90H~@k[7;1H[63;90H   [6;1H[63;100H6,0-1[6;1H[?25h[?25l[63;90H~@k[6;1H[63;90H   [5;1H[63;100H5,1  [5;1H[?25h[?25l[63;90H~@k[5;1H[63;90H   [4;1H[63;100H4[4;1H[?25h[?25l[63;90H~@k[4;1H[63;90H   [3;1H[63;100H3[3;1H[?25h[?25l[63;90H~@k[3;1H[63;90H   [3;2H[63;102H2[3;2H[?25h[?25l[63;90H~@k[3;2H[63;90H   [3;3H[63;102H3[3;3H[?25h[?25l[63;90H~@k[3;3H[63;90H   [3;4H[63;102H4[3;4H[?25h[?25l[63;90Hi[3;4H[63;90H [3;4H[63;1H[38;5;130m-- INSERT --[m[63;100H[K[63;100H3,4[11CAll[3;4H[?25h[?25l[36mAOperating Systems[m[63;102H5[3;5H[?25h[?25l[36mdOperating Systems[m[63;102H6[3;6H[?25h[?25l[36mvOperating Systems[m[63;102H7[3;7H[?25h[?25l[36maOperating Systems[m[63;102H8[3;8H[?25h[?25l[36mnOperating Systems[m[63;102H9[3;9H[?25h[?25l[36mcOperating Systems[m[63;102H10[3;10H[?25h[?25l[36meOperating Systems[m[63;103H1[3;11H[?25h[?25l[36mdOperating Systems[m[63;103H2[3;12H[?25h[?25l[36m Operating Systems[m[63;103H3[3;13H[?25h[63;1H[K[3;12H[?25l[63;90H^[[3;12H[63;90H  [3;13H[63;100H3,12[10CAll[3;12H[?25h[?25l[63;90H:[3;12H[63;90H[K[63;1H:[?2004h[?25h [?25l[3;12H[63;100H3,12[10CAll[3;12H[?25h[?25l[63;90Hi[3;12H[63;90H [3;12H[63;1H[38;5;130m-- INSERT --[m[63;100H[K[63;100H3,12[10CAll[3;12H[?25h[?25l[63;100H4[4;12H[?25h[?25l[63;103H1[4;11H[?25h[?25l[63;103H0[4;10H[?25h[?25l[63;102H9 [4;9H[?25h[?25l[63;102H8[4;8H[?25h[?25l[63;102H7[4;7H[?25h[?25l[63;102H6[4;6H[?25h[?25l[63;102H5[4;5H[?25h[?25l[63;102H4[4;4H[?25h[?25l[63;102H3[4;3H[?25h[?25l[63;102H2[4;2H[?25h[?25l[63;102H3[4;3H[?25h[?25l[63;102H4[4;4H[?25h[?25l[63;102H5[4;5H[?25h[?25l[63;102H6[4;6H[?25h[?25l[63;102H7[4;7H[?25h[?25l[63;102H8[4;8H[?25h[?25l[63;102H9[4;9H[?25h[?25l[63;102H10[4;10H[?25h[?25l[63;103H1[4;11H[?25h[?25l[63;103H2[4;12H[?25h[?25l[63;103H3[4;13H[?25h[?25l[63;103H4[4;14H[?25h[?25l[63;103H5[4;15H[?25h[?25l[63;103H6[4;16H[?25h[?25l[36m: [m[63;103H7[4;17H[?25h[?25l[1C[36m [m[63;103H8[4;18H[?25h[?25l[36mr [m[63;103H9[4;19H[?25h[?25l[36me [m[63;102H20[4;20H[?25h[?25l[36mp [m[63;103H1[4;21H[?25h[?25l[36mu [m[63;103H2[4;22H[?25h[?25l[36mr [m[63;103H3[4;23H[?25h[?25l[36mp [m[63;103H4[4;24H[?25h[?25l[36mo [m[63;103H5[4;25H[?25h[?25l[36ms [m[63;103H6[4;26H[?25h[?25l[36me [m[63;103H7[4;27H[?25h[?25l[36md [m[63;103H8[4;28H[?25h[?25l[1C[36m [m[63;103H9[4;29H[?25h[?25l[36mf [m[63;102H30[4;30H[?25h[?25l[36mo [m[63;103H1[4;31H[?25h[?25l[36mr [m[63;103H2[4;32H[?25h[?25l[1C[36m [m[63;103H3[4;33H[?25h[?25l[36mS [m[63;103H4[4;34H[?25h[?25l[36m [m[4;34H[K[63;103H3[4;33H[?25h[?25l[36mA [m[63;103H4[4;34H[?25h[?25l[36ms [m[63;103H5[4;35H[?25h[?25l[36mg [m[63;103H6[4;36H[?25h[?25l[36mn [m[63;103H7[4;37H[?25h[?25l[1C[36m [m[63;103H8[4;38H[?25h[?25l[38;5;130m1[m[36m [m[63;103H9[4;39H[?25h[?25l[1C[36m [m[63;102H40[4;40H[?25h[?25l[36mf [m[63;103H1[4;41H[?25h[?25l[36mr [m[63;103H2[4;42H[?25h[?25l[36mo [m[63;103H3[4;43H[?25h[?25l[36mm [m[63;103H4[4;44H[?25h[?25l[1C[36m [m[63;103H5[4;45H[?25h[?25l[36mA [m[63;103H6[4;46H[?25h[?25l[36md [m[63;103H7[4;47H[?25h[?25l[36mv [m[63;103H8[4;48H[?25h[?25l[36m. [m[63;103H9[4;49H[?25h[?25l[1C[36m [m[63;102H50[4;50H[?25h[?25l[36mO [m[63;103H1[4;51H[?25h[?25l[36mS [m[63;103H2[4;52H[?25h[?25l[36m, [m[63;103H3[4;53H[?25h[?25l[1C[36m [m[63;103H4[4;54H[?25h[?25l[36mw [m[63;103H5[4;55H[?25h[?25l[36mr [m[63;103H6[4;56H[?25h[?25l[36mi [m[63;103H7[4;57H[?25h[?25l[36mt [m[63;103H8[4;58H[?25h[?25l[36mt [m[63;103H9[4;59H[?25h[?25l[36me [m[63;102H60[4;60H[?25h[?25l[36mn [m[63;103H1[4;61H[?25h[?25l[1C[36m [m[63;103H2[4;62H[?25h[?25l[36mb [m[63;103H3[4;63H[?25h[?25l[36my [m[63;103H4[4;64H[?25h[?25l[1C[36m [m[63;103H5[4;65H[?25h[?25l[36mm [m[63;103H6[4;66H[?25h[?25l[36me [m[63;103H7[4;67H[?25h[63;1H[K[4;66H[?25l[63;90H^[[4;66H[63;90H  [4;67H[63;100H4,66[10CAll[4;66H[?25h[?25l[63;90H:[4;66H[63;90H[K[63;1H:[?2004h[?25hw[?25l[?25hq[?25l[?25h[?25l[?2004l"simple.c" 27L, 544C written
+[?2004l[?1l>[?25h[?1049l[23;0;0t(base) ]0;atl0016@DESKTOP-E0RUC10: ~/advOs[01;32matl0016@DESKTOP-E0RUC10[00m:[01;34m~/advOs[00m$ gcc -v
+Using built-in specs.
+COLLECT_GCC=gcc
+COLLECT_LTO_WRAPPER=/usr/lib/gcc/x86_64-linux-gnu/7/lto-wrapper
+OFFLOAD_TARGET_NAMES=nvptx-none
+OFFLOAD_TARGET_DEFAULT=1
+Target: x86_64-linux-gnu
+Configured with: ../src/configure -v --with-pkgversion='Ubuntu 7.5.0-3ubuntu1~18.04' --with-bugurl=file:///usr/share/doc/gcc-7/README.Bugs --enable-languages=c,ada,c++,go,brig,d,fortran,objc,obj-c++ --prefix=/usr --with-gcc-major-version-only --program-suffix=-7 --program-prefix=x86_64-linux-gnu- --enable-shared --enable-linker-build-id --libexecdir=/usr/lib --without-included-gettext --enable-threads=posix --libdir=/usr/lib --enable-nls --enable-bootstrap --enable-clocale=gnu --enable-libstdcxx-debug --enable-libstdcxx-time=yes --with-default-libstdcxx-abi=new --enable-gnu-unique-object --disable-vtable-verify --enable-libmpx --enable-plugin --enable-default-pie --with-system-zlib --with-target-system-zlib --enable-objc-gc=auto --enable-multiarch --disable-werror --with-arch-32=i686 --with-abi=m64 --with-multilib-list=m32,m64,mx32 --enable-multilib --with-tune=generic --enable-offload-targets=nvptx-none --without-cuda-driver --enable-checking=release --build=x86_64-linux-gnu --host=x86_64-linux-gnu --target=x86_64-linux-gnu
+Thread model: posix
+gcc version 7.5.0 (Ubuntu 7.5.0-3ubuntu1~18.04) 
+(base) ]0;atl0016@DESKTOP-E0RUC10: ~/advOs[01;32matl0016@DESKTOP-E0RUC10[00m:[01;34m~/advOs[00m$ gg[Kcc -g -lm -o simple simple.c
+/tmp/cc7arJQD.o: In function `main':
+/home/atl0016/advOs/simple.c:18: undefined reference to `sqrt'
+collect2: error: ld returned 1 exit status
+(base) ]0;atl0016@DESKTOP-E0RUC10: ~/advOs[01;32matl0016@DESKTOP-E0RUC10[00m:[01;34m~/advOs[00m$ vi simple.c 
+[?2004h[?1049h[22;0;0t[?1h=[?2004h[1;63r[?12h[?12l[27m[23m[29m[m[H[2J[?25l[63;1H"simple.c" 27L, 544C[2;1H▽[6n[2;1H  [1;1H[>c]10;?]11;?[1;1H[34m/* read an array of [m[31m10[m[34m numbers, calculate the average of their square roots, print the result
+ * Aidan Lambrecht
+ * Advanced Operating Systems
+ * Assignment [m[31m1[m[34m: repurposed for Asgn [m[31m1[m[34m from Adv. OS, written by me 
+ */[m
+
+[35m#include [m[31m<stdio.h>[m
+[35m#include [m[31m<math.h>[m
+
+[32mint[m main()
+{[12;9H[32mint[m arr[] = { [31m1[m, [31m2[m, [31m3[m, [31m4[m, [31m5[m, [31m6[m, [31m7[m, [31m8[m, [31m9[m, [31m10[m };[13;9H[32mdouble[m sum = [31m0[m;[14;9H[32mint[m x;[16;9H[38;5;130mfor[m ( x = [31m0[m; x < [31m10[m; x++)[17;9H{[18;17Hsum = sum + sqrt(arr[x]);[19;9H}[21;9H[32mdouble[m avg = sum / [31m10[m;[23;9Hprintf([31m"Average of the square roots of 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 = "[m);[24;9Hprintf([31m"[m[35m%lf[m[31m [m[35m\n[m[31m"[m, avg);[26;9H[38;5;130mreturn[m [31m0[m;
+}
+[94m~                                                                                                                    [29;1H~                                                                                                                    [30;1H~                                                                                                                    [31;1H~                                                                                                                    [32;1H~                                                                                                                    [33;1H~                                                                                                                    [34;1H~                                                                                                                    [35;1H~                                                                                                                    [36;1H~                                                                                                                    [37;1H~                                                                                                                    [38;1H~                                                                                                                    [39;1H~                                                                                                                    [40;1H~                                                                                                                    [41;1H~                                                                                                                    [42;1H~                                                                                                                    [43;1H~                                                                                                                    [44;1H~                                                                                                                    [45;1H~                                                                                                                    [46;1H~                                                                                                                    [47;1H~                                                                                                                    [48;1H~                                                                                                                    [49;1H~                                                                                                                    [50;1H~                                                                                                                    [51;1H~                                                                                                                    [52;1H~                                                                                                                    [53;1H~                                                                                                                    [54;1H~                                                                                                                    [55;1H~                                                                                                                    [56;1H~                                                                                                                    [57;1H~                                                                                                                    [58;1H~                                                                                                                    [59;1H~                                                                                                                    [60;1H~                                                                                                                    [61;1H~                                                                                                                    [62;1H~                                                                                                                    [m[63;100H4,66[10CAll[4;66H[?25h[?25l[63;90H:[4;66H[63;1H[K[63;1H:[?2004h[?25hw[?25l[?25hq[?25l[?25h[?25l[?2004l"simple.c" 27L, 544C written
+[?2004l[?1l>[?25h[?1049l[23;0;0t(base) ]0;atl0016@DESKTOP-E0RUC10: ~/advOs[01;32matl0016@DESKTOP-E0RUC10[00m:[01;34m~/advOs[00m$ vi simple.c gcc -g -lm -o simple simple.c[1P[1P[1P[1P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C -lm
+(base) ]0;atl0016@DESKTOP-E0RUC10: ~/advOs[01;32matl0016@DESKTOP-E0RUC10[00m:[01;34m~/advOs[00m$ man ldd
+[?1049h[22;0;0t[?1h=LDD(1)                                       Linux Programmer's Manual                                      LDD(1)[m
+[m
+[1mNAME[0m[m
+       ldd - print shared object dependencies[m
+[m
+[1mSYNOPSIS[0m[m
+       [1mldd[0m [[4moption[24m]... [4mfile[24m...[m
+[m
+[1mDESCRIPTION[0m[m
+       [1mldd[0m prints the shared objects (shared libraries) required by each program or shared object specified on the[m
+       command line.  An example of its use and output is the following:[m
+[m
+         $ [1mldd[0m [1m/bin/ls[0m[m
+                 linux-vdso.so.1 (0x00007ffcc3563000)[m
+                 libselinux.so.1 => /lib64/libselinux.so.1 (0x00007f87e5459000)[m
+                 libcap.so.2 => /lib64/libcap.so.2 (0x00007f87e5254000)[m
+                 libc.so.6 => /lib64/libc.so.6 (0x00007f87e4e92000)[m
+                 libpcre.so.1 => /lib64/libpcre.so.1 (0x00007f87e4c22000)[m
+                 libdl.so.2 => /lib64/libdl.so.2 (0x00007f87e4a1e000)[m
+                 /lib64/ld-linux-x86-64.so.2 (0x00005574bf12e000)[m
+                 libattr.so.1 => /lib64/libattr.so.1 (0x00007f87e4817000)[m
+                 libpthread.so.0 => /lib64/libpthread.so.0 (0x00007f87e45fa000)[m
+[m
+       In the usual case, [1mldd[0m invokes the standard dynamic linker (see [1mld.so[0m(8)) with the  [1mLD_TRACE_LOADED_OBJECTS[0m[m
+       environment  variable  set to 1.  This causes the dynamic linker to inspect the program's dynamic dependen‐[m
+       cies, and find (according to the rules described in [1mld.so[0m(8)) and  load  the  objects  that  satisfy  those[m
+       dependencies.   For each dependency, [1mldd[0m displays the location of the matching object and the (hexadecimal)[m
+       address at which it is loaded.  (The [4mlinux-vdso[24m and [4mld-linux[24m shared dependencies are special;  see  [1mvdso[0m(7)[m
+       and [1mld.so[0m(8).)[m
+[m
+   [1mSecurity[0m[m
+       Be  aware  that  in some circumstances (e.g., where the program specifies an ELF interpreter other than [4mld-[24m[m
+       [4mlinux.so[24m), some versions of [1mldd[0m may attempt to obtain the dependency information by attempting to  directly[m
+       execute  the  program,  which  may  lead  to the execution of whatever code is defined in the program's ELF[m
+       interpreter, and perhaps to execution of the program itself.  (In glibc versions before 2.27, the  upstream[m
+       [1mldd[0m  implementation  did this for example, although most distributions provided a modified version that did[m
+       not.)[m
+[m
+       Thus, you should [4mnever[24m employ [1mldd[0m on an untrusted executable, since this may result  in  the  execution  of[m
+       arbitrary code.  A safer alternative when dealing with untrusted executables is:[m
+[m
+           $ [1mobjdump[0m [1m-p[0m [1m/path/to/program[0m [1m|[0m [1mgrep[0m [1mNEEDED[0m[m
+[m
+       Note,  however, that this alternative shows only the direct dependencies of the executable, while [1mldd[0m shows[m
+       the entire dependency tree of the executable.[m
+[m
+[1mOPTIONS[0m[m
+       [1m--version[0m[m
+              Print the version number of [1mldd[0m.[m
+[m
+       [1m-v[0m, [1m--verbose[0m[m
+              Print all information, including, for example, symbol versioning information.[m
+[m
+       [1m-u[0m, [1m--unused[0m[m
+              Print unused direct dependencies.  (Since glibc 2.3.4.)[m
+[m
+       [1m-d[0m, [1m--data-relocs[0m[m
+              Perform relocations and report any missing objects (ELF only).[m
+[m
+       [1m-r[0m, [1m--function-relocs[0m[m
+              Perform relocations for both data objects and functions, and report any missing objects or functions[m
+              (ELF only).[m
+[7m Manual page ldd(1) line 1 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page ldd(1) line 2 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       [1m--help[0m Usage information.[m
+[7m Manual page ldd(1) line 3 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page ldd(1) line 4 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[1mBUGS[0m[m
+[7m Manual page ldd(1) line 5 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       [1mldd[0m does not work on a.out shared libraries.[m
+[7m Manual page ldd(1) line 6 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page ldd(1) line 7 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       [1mldd[0m  does  not work with some extremely old a.out programs which were built before [1mldd[0m support was added to[m
+[7m Manual page ldd(1) line 8 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       the compiler releases.  If you use [1mldd[0m on one of these programs, the program will attempt to run with  [4margc[24m[m
+[7m Manual page ldd(1) line 9 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       = 0 and the results will be unpredictable.[m
+[7m Manual page ldd(1) line 10 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page ldd(1) line 11 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[1mSEE[0m [1mALSO[0m[m
+[7m Manual page ldd(1) line 12 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       [1mpldd[0m(1), [1msprof[0m(1), [1mld.so[0m(8), [1mldconfig[0m(8)[m
+[7m Manual page ldd(1) line 13 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page ldd(1) line 14 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[1mCOLOPHON[0m[m
+[7m Manual page ldd(1) line 15 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       This  page  is part of release 4.15 of the Linux [4mman-pages[24m project.  A description of the project, informa‐[m
+[7m Manual page ldd(1) line 16 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       tion   about   reporting   bugs,   and   the   latest   version   of   this   page,   can   be   found   at[m
+[7m Manual page ldd(1) line 17 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       https://www.kernel.org/doc/man-pages/.[m
+[7m Manual page ldd(1) line 18 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page ldd(1) line 19 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K                                                    2017-09-15                                              LDD(1)[m
+[7m Manual page ldd(1) line 20 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page ldd(1) line 20/81 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page ldd(1) line 20/81 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page ldd(1) line 20/81 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page ldd(1) line 20/81 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page ldd(1) line 20/81 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page ldd(1) line 20/81 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page ldd(1) line 20/81 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page ldd(1) line 20/81 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page ldd(1) line 20/81 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page ldd(1) line 20/81 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page ldd(1) line 20/81 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page ldd(1) line 20/81 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page ldd(1) line 20/81 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page ldd(1) line 20/81 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page ldd(1) line 20/81 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page ldd(1) line 20/81 (END) (press h for help or q to quit)[27m[K[K[?1l>[?1049l[23;0;0t(base) ]0;atl0016@DESKTOP-E0RUC10: ~/advOs[01;32matl0016@DESKTOP-E0RUC10[00m:[01;34m~/advOs[00m$ ldd simple
+	linux-vdso.so.1 (0x00007fffd87e7000)
+	libm.so.6 => /lib/x86_64-linux-gnu/libm.so.6 (0x00007f115d6c0000)
+	libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6 (0x00007f115d2c0000)
+	/lib64/ld-linux-x86-64.so.2 (0x00007f115de00000)
+(base) ]0;atl0016@DESKTOP-E0RUC10: ~/advOs[01;32matl0016@DESKTOP-E0RUC10[00m:[01;34m~/advOs[00m$ file simple[K[K[K[K[K[K[K[K[K[K[Kvi .gdbinit
+[?2004h[?1049h[22;0;0t[?1h=[?2004h[1;63r[?12h[?12l[27m[23m[29m[m[H[2J[?25l[63;1H".gdbinit" [New File][2;1H▽[6n[2;1H  [1;1H[>c]10;?]11;?[2;1H[94m~                                                                                                                    [3;1H~                                                                                                                    [4;1H~                                                                                                                    [5;1H~                                                                                                                    [6;1H~                                                                                                                    [7;1H~                                                                                                                    [8;1H~                                                                                                                    [9;1H~                                                                                                                    [10;1H~                                                                                                                    [11;1H~                                                                                                                    [12;1H~                                                                                                                    [13;1H~                                                                                                                    [14;1H~                                                                                                                    [15;1H~                                                                                                                    [16;1H~                                                                                                                    [17;1H~                                                                                                                    [18;1H~                                                                                                                    [19;1H~                                                                                                                    [20;1H~                                                                                                                    [21;1H~                                                                                                                    [22;1H~                                                                                                                    [23;1H~                                                                                                                    [24;1H~                                                                                                                    [25;1H~                                                                                                                    [26;1H~                                                                                                                    [27;1H~                                                                                                                    [28;1H~                                                                                                                    [29;1H~                                                                                                                    [30;1H~                                                                                                                    [31;1H~                                                                                                                    [32;1H~                                                                                                                    [33;1H~                                                                                                                    [34;1H~                                                                                                                    [35;1H~                                                                                                                    [36;1H~                                                                                                                    [37;1H~                                                                                                                    [38;1H~                                                                                                                    [39;1H~                                                                                                                    [40;1H~                                                                                                                    [41;1H~                                                                                                                    [42;1H~                                                                                                                    [43;1H~                                                                                                                    [44;1H~                                                                                                                    [45;1H~                                                                                                                    [46;1H~                                                                                                                    [47;1H~                                                                                                                    [48;1H~                                                                                                                    [49;1H~                                                                                                                    [50;1H~                                                                                                                    [51;1H~                                                                                                                    [52;1H~                                                                                                                    [53;1H~                                                                                                                    [54;1H~                                                                                                                    [55;1H~                                                                                                                    [56;1H~                                                                                                                    [57;1H~                                                                                                                    [58;1H~                                                                                                                    [59;1H~                                                                                                                    [60;1H~                                                                                                                    [61;1H~                                                                                                                    [62;1H~                                                                                                                    [m[63;100H0,0-1[9CAll[1;1H[?25h[?25l[63;90Hf[1;1H[?25h[?25l[63;91Hi[1;1H[63;90H  [1;1H[?25h[?25l[63;90Hl[1;1H[63;90H [1;1H[?25h[?25l[63;90He[1;1H[63;90H [1;1H[?25h[?25l[63;90H<20>[1;1H[63;90H    [1;1H[?25h[?25l[63;90Hf[1;1H[?25h[?25l[63;91Hi[1;1H[63;90H  [1;1H[?25h[?25l[63;90Hl[1;1H[63;90H [1;1H[?25h[?25l[63;90Hi[1;1H[63;90H [1;1H[63;1H[1m-- INSERT --[m[63;13H[K[63;100H0,1[11CAll[1;1H[?25h[?25lf[63;100H1,2[1;2H[?25h[?25li[63;102H3[1;3H[?25h[?25ll[63;102H4[1;4H[?25h[?25l[38;5;130mfile[m[63;102H5[1;5H[?25h[?25l[63;102H6[1;6H[?25h[?25ls[63;102H7[1;7H[?25h[?25li[63;102H8[1;8H[?25h[?25lm[63;102H9[1;9H[?25h[?25lp[63;102H10[1;10H[?25h[?25ll[63;103H1[1;11H[?25h[?25le[63;103H2[1;12H[?25h[?25l[2;1H[K[63;100H2,1 [2;1H[?25h[?25lb[63;102H2[2;2H[?25h[?25lr[63;102H3[2;3H[?25h[?25le[63;102H4[2;4H[?25h[?25la[63;102H5[2;5H[?25h[?25l[38;5;130mbreak[m[63;102H6[2;6H[?25h[?25l[63;102H7[2;7H[?25h[?25lm[63;102H8[2;8H[?25h[?25le[63;102H9[2;9H[?25h[?25la[63;102H10[2;10H[?25h[?25l[2;9H[K[63;102H9 [2;9H[?25h[?25l[2;8H[K[63;102H8[2;8H[?25h[?25la[63;102H9[2;9H[?25h[?25li[63;102H10[2;10H[?25h[?25ln[63;103H1[2;11H[?25h[?25l[3;1H[K[63;100H3,1 [3;1H[?25h[?25lb[63;102H2[3;2H[?25h[?25lr[63;102H3[3;3H[?25h[?25le[63;102H4[3;4H[?25h[?25la[63;102H5[3;5H[?25h[?25l[38;5;130mbreak[m[63;102H6[3;6H[?25h[?25l[63;102H7[3;7H[?25h[?25ls[63;102H8[3;8H[?25h[?25lq[63;102H9[3;9H[?25h[?25lr[63;102H10[3;10H[?25h[?25lt[63;103H1[3;11H[?25h[?25l[4;1H[K[63;100H4,1 [4;1H[?25h[?25li[63;102H2[4;2H[?25h[?25ln[63;102H3[4;3H[?25h[?25lf[63;102H4[4;4H[?25h[?25l[38;5;130minfo[m[63;102H5[4;5H[?25h[?25l[63;102H6[4;6H[?25h[?25lr[63;102H7[4;7H[?25h[?25le[63;102H8[4;8H[?25h[?25lg[63;102H9[4;9H[?25h[?25li[63;102H10[4;10H[?25h[?25ls[63;103H1[4;11H[?25h[?25lt[63;103H2[4;12H[?25h[?25le[63;103H3[4;13H[?25h[?25lr[63;103H4[4;14H[?25h[?25l[4;6H[32mregisters[m[63;103H5[4;15H[?25h[?25l:[63;103H6[4;16H[?25h[?25l[4;15H[K[63;103H5[4;15H[?25h[63;1H[K[4;14H[?25l[63;90H^[[4;14H[63;90H  [4;15H[63;100H4,14[10CAll[4;14H[?25h[?25l[63;90H:[4;14H[63;90H[K[63;1H:[?2004h[?25hw[?25l[?25hq[?25l[?25h[?25l[?2004l".gdbinit" [New] 4L, 49C written
+[?2004l[?1l>[?25h[?1049l[23;0;0t(base) ]0;atl0016@DESKTOP-E0RUC10: ~/advOs[01;32matl0016@DESKTOP-E0RUC10[00m:[01;34m~/advOs[00m$ ll
+total 117
+drwxr-xr-x 1 atl0016 atl0016   512 Jan 20 16:25 [0m[01;34m.[0m/
+drwxr-xr-x 1 atl0016 atl0016   512 Jan 20 16:25 [01;34m..[0m/
+-rw-r--r-- 1 atl0016 atl0016    49 Jan 20 16:25 .gdbinit
+-rw-r--r-- 1 atl0016 atl0016  7512 Jan 20 16:14 cpuinfo.txt
+-rw-r--r-- 1 atl0016 atl0016    37 Jan 20 16:16 eth0.txt
+-rw-r--r-- 1 atl0016 atl0016  1744 Jan 20 16:17 hardware.script
+-rw-r--r-- 1 atl0016 atl0016     0 Jan 20 16:16 hda.txt
+-rw-r--r-- 1 atl0016 atl0016   413 Jan 20 16:16 ifconfig.txt
+-rw-r--r-- 1 atl0016 atl0016  7252 Jan 20 16:01 installation.script
+-rw-r--r-- 1 atl0016 atl0016     0 Jan 20 16:17 interrupts.txt
+-rw-r--r-- 1 atl0016 atl0016     0 Jan 20 16:15 lspci.txt
+-rw-r--r-- 1 atl0016 atl0016  1164 Jan 20 16:14 meminfo.txt
+-rw-r--r-- 1 atl0016 atl0016 44032 Jan 20 16:25 programming.script
+-rw-r--r-- 1 atl0016 atl0016     0 Jan 20 16:15 sda.txt
+-rwxr-xr-x 1 atl0016 atl0016 11016 Jan 20 16:24 [01;32msimple[0m*
+-rw-rw-rw- 1 atl0016 atl0016   544 Jan 20 16:24 simple.c
+(base) ]0;atl0016@DESKTOP-E0RUC10: ~/advOs[01;32matl0016@DESKTOP-E0RUC10[00m:[01;34m~/advOs[00m$ gdb
+GNU gdb (Ubuntu 8.1-0ubuntu3.1) 8.1.0.20180409-git
+Copyright (C) 2018 Free Software Foundation, Inc.
+License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>
+This is free software: you are free to change and redistribute it.
+There is NO WARRANTY, to the extent permitted by law.  Type "show copying"
+and "show warranty" for details.
+This GDB was configured as "x86_64-linux-gnu".
+Type "show configuration" for configuration details.
+For bug reporting instructions, please see:
+<http://www.gnu.org/software/gdb/bugs/>.
+Find the GDB manual and other documentation resources online at:
+<http://www.gnu.org/software/gdb/documentation/>.
+For help, type "help".
+Type "apropos word" to search for commands related to "word".
+warning: File "/home/atl0016/advOs/.gdbinit" auto-loading has been declined by your `auto-load safe-path' set to "$debugdir:$datadir/auto-load:/home/atl0016/operatingSystems/asgn1/.gdbinit".
+To enable execution of this file add
+	add-auto-load-safe-path /home/atl0016/advOs/.gdbinit
+line to your configuration file "/home/atl0016/.gdbinit".
+To completely disable this security protection add
+	set auto-load safe-path /
+line to your configuration file "/home/atl0016/.gdbinit".
+For more information about this security protection see the
+"Auto-loading safe path" section in the GDB manual.  E.g., run from the shell:
+	info "(gdb)Auto-loading safe path"
+(gdb) quit
+(base) ]0;atl0016@DESKTOP-E0RUC10: ~/advOs[01;32matl0016@DESKTOP-E0RUC10[00m:[01;34m~/advOs[00m$ cd ../home/at[K[K[K[K[K[K[K[K[K[K~/advOs/[K[K[K[K[K[K
+.cache/           .keras/           .ssh/             basketball/       miniconda3/       seniorDesign/
+.conda/           .local/           .vim/             bin/              operatingSystems/ venv/
+.config/          .pylint.d/        .vscode-server/   cs161/            peopleIKnow/      
+.continuum/       .rpmdb/           advOs/            dataMining/       research/         
+(base) ]0;atl0016@DESKTOP-E0RUC10: ~/advOs[01;32matl0016@DESKTOP-E0RUC10[00m:[01;34m~/advOs[00m$ cd ~/home[K[K[K[K[K[K[K[K[Kgdb --cd /[K.
+GNU gdb (Ubuntu 8.1-0ubuntu3.1) 8.1.0.20180409-git
+Copyright (C) 2018 Free Software Foundation, Inc.
+License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>
+This is free software: you are free to change and redistribute it.
+There is NO WARRANTY, to the extent permitted by law.  Type "show copying"
+and "show warranty" for details.
+This GDB was configured as "x86_64-linux-gnu".
+Type "show configuration" for configuration details.
+For bug reporting instructions, please see:
+<http://www.gnu.org/software/gdb/bugs/>.
+Find the GDB manual and other documentation resources online at:
+<http://www.gnu.org/software/gdb/documentation/>.
+For help, type "help".
+Type "apropos word" to search for commands related to "word".
+warning: File "/home/atl0016/advOs/.gdbinit" auto-loading has been declined by your `auto-load safe-path' set to "$debugdir:$datadir/auto-load:/home/atl0016/operatingSystems/asgn1/.gdbinit".
+To enable execution of this file add
+	add-auto-load-safe-path /home/atl0016/advOs/.gdbinit
+line to your configuration file "/home/atl0016/.gdbinit".
+To completely disable this security protection add
+	set auto-load safe-path /
+line to your configuration file "/home/atl0016/.gdbinit".
+For more information about this security protection see the
+"Auto-loading safe path" section in the GDB manual.  E.g., run from the shell:
+	info "(gdb)Auto-loading safe path"
+(gdb) quit
+(base) ]0;atl0016@DESKTOP-E0RUC10: ~/advOs[01;32matl0016@DESKTOP-E0RUC10[00m:[01;34m~/advOs[00m$ gdb -iex 'add-auto-load-sag[Kfe-path .'
+GNU gdb (Ubuntu 8.1-0ubuntu3.1) 8.1.0.20180409-git
+Copyright (C) 2018 Free Software Foundation, Inc.
+License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>
+This is free software: you are free to change and redistribute it.
+There is NO WARRANTY, to the extent permitted by law.  Type "show copying"
+and "show warranty" for details.
+This GDB was configured as "x86_64-linux-gnu".
+Type "show configuration" for configuration details.
+For bug reporting instructions, please see:
+<http://www.gnu.org/software/gdb/bugs/>.
+Find the GDB manual and other documentation resources online at:
+<http://www.gnu.org/software/gdb/documentation/>.
+For help, type "help".
+Type "apropos word" to search for commands related to "word".
+Breakpoint 1 at 0x722: file simple.c, line 11.
+Breakpoint 2 at 0x5f0
+.gdbinit:4: Error in sourced command file:
+The program has no registers now.
+(gdb) r
+Starting program: /home/atl0016/advOs/simple 
+
+Breakpoint 1, main () at simple.c:11
+11	{
+(gdb) n
+12		int arr[] = { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 };
+(gdb) s
+13		double sum = 0;
+(gdb) c
+Continuing.
+
+Breakpoint 2, __sqrt (x=1) at w_sqrt_compat.c:30
+30	w_sqrt_compat.c: No such file or directory.
+(gdb) c
+Continuing.
+
+Breakpoint 2, __sqrt (x=2) at w_sqrt_compat.c:30
+30	in w_sqrt_compat.c
+(gdb) c
+Continuing.
+
+Breakpoint 2, __sqrt (x=3) at w_sqrt_compat.c:30
+30	in w_sqrt_compat.c
+(gdb) c
+Continuing.
+
+Breakpoint 2, __sqrt (x=4) at w_sqrt_compat.c:30
+30	in w_sqrt_compat.c
+(gdb) c
+Continuing.
+
+Breakpoint 2, __sqrt (x=5) at w_sqrt_compat.c:30
+30	in w_sqrt_compat.c
+(gdb) c
+Continuing.
+
+Breakpoint 2, __sqrt (x=6) at w_sqrt_compat.c:30
+30	in w_sqrt_compat.c
+(gdb) c
+Continuing.
+
+Breakpoint 2, __sqrt (x=7) at w_sqrt_compat.c:30
+30	in w_sqrt_compat.c
+(gdb) c
+Continuing.
+
+Breakpoint 2, __sqrt (x=8) at w_sqrt_compat.c:30
+30	in w_sqrt_compat.c
+(gdb) c
+Continuing.
+
+Breakpoint 2, __sqrt (x=9) at w_sqrt_compat.c:30
+30	in w_sqrt_compat.c
+(gdb) c
+Continuing.
+
+Breakpoint 2, __sqrt (x=10) at w_sqrt_compat.c:30
+30	in w_sqrt_compat.c
+(gdb) c
+Continuing.
+Average of the square roots of 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 = 2.246828 
+[Inferior 1 (process 2153) exited normally]
+(gdb) c
+The program is not being run.
+(gdb) quit
+(base) ]0;atl0016@DESKTOP-E0RUC10: ~/advOs[01;32matl0016@DESKTOP-E0RUC10[00m:[01;34m~/advOs[00m$ simple
+
+Command 'simple' not found, but can be installed with:
+
+sudo apt install meryl
+
+(base) ]0;atl0016@DESKTOP-E0RUC10: ~/advOs[01;32matl0016@DESKTOP-E0RUC10[00m:[01;34m~/advOs[00m$ ll
+total 117
+drwxr-xr-x 1 atl0016 atl0016   512 Jan 20 16:25 [0m[01;34m.[0m/
+drwxr-xr-x 1 atl0016 atl0016   512 Jan 20 16:25 [01;34m..[0m/
+-rw-r--r-- 1 atl0016 atl0016    49 Jan 20 16:25 .gdbinit
+-rw-r--r-- 1 atl0016 atl0016  7512 Jan 20 16:14 cpuinfo.txt
+-rw-r--r-- 1 atl0016 atl0016    37 Jan 20 16:16 eth0.txt
+-rw-r--r-- 1 atl0016 atl0016  1744 Jan 20 16:17 hardware.script
+-rw-r--r-- 1 atl0016 atl0016     0 Jan 20 16:16 hda.txt
+-rw-r--r-- 1 atl0016 atl0016   413 Jan 20 16:16 ifconfig.txt
+-rw-r--r-- 1 atl0016 atl0016  7252 Jan 20 16:01 installation.script
+-rw-r--r-- 1 atl0016 atl0016     0 Jan 20 16:17 interrupts.txt
+-rw-r--r-- 1 atl0016 atl0016     0 Jan 20 16:15 lspci.txt
+-rw-r--r-- 1 atl0016 atl0016  1164 Jan 20 16:14 meminfo.txt
+-rw-r--r-- 1 atl0016 atl0016 51200 Jan 20 16:31 programming.script
+-rw-r--r-- 1 atl0016 atl0016     0 Jan 20 16:15 sda.txt
+-rwxr-xr-x 1 atl0016 atl0016 11016 Jan 20 16:24 [01;32msimple[0m*
+-rw-rw-rw- 1 atl0016 atl0016   544 Jan 20 16:24 simple.c
+(base) ]0;atl0016@DESKTOP-E0RUC10: ~/advOs[01;32matl0016@DESKTOP-E0RUC10[00m:[01;34m~/advOs[00m$ ./simple
+Average of the square roots of 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 = 2.246828 
+(base) ]0;atl0016@DESKTOP-E0RUC10: ~/advOs[01;32matl0016@DESKTOP-E0RUC10[00m:[01;34m~/advOs[00m$ exit
+exit
+
+Script done on 2021-01-20 16:33:03-0600

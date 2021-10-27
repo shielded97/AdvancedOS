@@ -1,0 +1,21 @@
+Script started on 2021-01-20 16:14:25-0600
+(base) ]0;atl0016@DESKTOP-E0RUC10: ~/advOs[01;32matl0016@DESKTOP-E0RUC10[00m:[01;34m~/advOs[00m$ more /proc/cpuingo[K[Kfo cpuindo[K[Kfo.txt>cpuinfo.txt cpuinfo.txt
+(base) ]0;atl0016@DESKTOP-E0RUC10: ~/advOs[01;32matl0016@DESKTOP-E0RUC10[00m:[01;34m~/advOs[00m$ more /proc/meminfo > meminfo.txt
+(base) ]0;atl0016@DESKTOP-E0RUC10: ~/advOs[01;32matl0016@DESKTOP-E0RUC10[00m:[01;34m~/advOs[00m$ lspci >lspci[K[K[K[K[K lspci.txt
+pcilib: Cannot open /proc/bus/pci
+lspci: Cannot find any working access method.
+(base) ]0;atl0016@DESKTOP-E0RUC10: ~/advOs[01;32matl0016@DESKTOP-E0RUC10[00m:[01;34m~/advOs[00m$ hdparm -i /dev/d[Ksda > sda.txt
+/dev/sda: No such file or directory
+(base) ]0;atl0016@DESKTOP-E0RUC10: ~/advOs[01;32matl0016@DESKTOP-E0RUC10[00m:[01;34m~/advOs[00m$ hdparm -I .[K/dev/ha[Kda > hda.txt
+/dev/hda: No such file or directory
+(base) ]0;atl0016@DESKTOP-E0RUC10: ~/advOs[01;32matl0016@DESKTOP-E0RUC10[00m:[01;34m~/advOs[00m$ eh[Kthtool eth0 > eth0.txt
+Cannot get device settings: Invalid argument
+Cannot get wake-on-lan settings: Invalid argument
+Cannot get message level: Invalid argument
+Cannot get link status: Invalid argument
+(base) ]0;atl0016@DESKTOP-E0RUC10: ~/advOs[01;32matl0016@DESKTOP-E0RUC10[00m:[01;34m~/advOs[00m$ ifon[K[Kconfig eth-[K0 > ifconfig.txt
+(base) ]0;atl0016@DESKTOP-E0RUC10: ~/advOs[01;32matl0016@DESKTOP-E0RUC10[00m:[01;34m~/advOs[00m$ more /proc/interrupts > inte[Kerrupts.txt
+(base) ]0;atl0016@DESKTOP-E0RUC10: ~/advOs[01;32matl0016@DESKTOP-E0RUC10[00m:[01;34m~/advOs[00m$ exit
+exit
+
+Script done on 2021-01-20 16:17:11-0600
