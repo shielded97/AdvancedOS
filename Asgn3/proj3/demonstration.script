@@ -1,0 +1,133 @@
+Script started on 2021-03-13 20:31:31-0600
+(base) ]0;atl0016@DESKTOP-E0RUC10: ~/advOs/asgn3[01;32matl0016@DESKTOP-E0RUC10[00m:[01;34m~/advOs/asgn3[00m$ make
+make: 'aubatchSep' is up to date.
+(base) ]0;atl0016@DESKTOP-E0RUC10: ~/advOs/asgn3[01;32matl0016@DESKTOP-E0RUC10[00m:[01;34m~/advOs/asgn3[00m$ ./aubatchSep
+Welcome to Aidan Lambrecht's batch job scheduler Version 1.0 
+         Type ‘help’ to find more about AUbatch commands.
+> help
+run <job> <time> <pri>: submit a job named <job>,
+                 execution time is <time>,
+                 priority is <pri>.
+                 list: display the job status.
+                 fcfs: change the scheduling policy to FCFS.
+                 sjf: change the scheduling policy to SJF.
+                 priority: change the scheduling policy to priority.
+                 test <benchmark> <policy> <num_of_jobs> <priority_levels>
+                 <min_CPU_time> <max_CPU_time>
+                 quit: exit AUbatch
+
+> run job1 30 10
+Job job1 was submitted
+Total number of jobs in the queue: 1
+Expected waiting time: 0.000000 seconds
+Scheduling Policy: FCFS
+
+> run job1 42 8
+Job job1 was submitted
+Total number of jobs in the queue: 2
+Expected waiting time: 24.604715 seconds
+Scheduling Policy: FCFS
+
+> run job1 25 11
+Job job1 was submitted
+Total number of jobs in the queue: 3
+Expected waiting time: 60.816187 seconds
+Scheduling Policy: FCFS
+
+> list
+Total number of jobs in the queue: 3
+Scheduling Policy: FCFS
+
+Name    CPU_Time    Priority    Arrival_time    Progress
+job1      30.00        10         20:32:9           run
+job1      42.00        8          20:32:14       waiting
+job1      25.00        11         20:32:20       waiting
+
+> sjf
+Scheduling policy is switched to SJF.
+All the 3 waiting jobs have been rescheduled.
+
+> list
+Total number of jobs in the queue: 3
+Scheduling Policy: SJF
+
+Name    CPU_Time    Priority    Arrival_time    Progress
+job1      30.00        10         20:32:9           run
+job1      25.00        11         20:32:20       waiting
+job1      42.00        8          20:32:14       waiting
+
+> priority
+Scheduling policy is switched to Priority.
+All the 3 waiting jobs have been rescheduled.
+
+> list
+Total number of jobs in the queue: 3
+Scheduling Policy: Priority
+
+Name    CPU_Time    Priority    Arrival_time    Progress
+job1      30.00        10         20:32:9           run
+job1      42.00        8          20:32:14       waiting
+job1      25.00        11         20:32:20       waiting
+
+> fcfs
+Scheduling policy is switched to FCFS.
+All the 3 waiting jobs have been rescheduled.
+
+> list
+Total number of jobs in the queue: 3
+Scheduling Policy: FCFS
+
+Name    CPU_Time    Priority    Arrival_time    Progress
+job1      30.00        10         20:32:9           run
+job1      42.00        8          20:32:14       waiting
+job1      25.00        11         20:32:20       waiting
+
+> ./job1 finished running. . .
+list
+Total number of jobs in the queue: 2
+Scheduling Policy: FCFS
+
+Name    CPU_Time    Priority    Arrival_time    Progress
+job1      42.00        8          20:32:14           run
+job1      25.00        11         20:32:20       waiting
+
+> ./job1 finished running. . .
+list
+Total number of jobs in the queue: 1
+Scheduling Policy: FCFS
+
+Name    CPU_Time    Priority    Arrival_time    Progress
+job1      25.00        11         20:32:20           run
+
+> ./job1 finished running. . .
+list
+Total number of jobs in the queue: 0
+Scheduling Policy: FCFS
+
+Name    CPU_Time    Priority    Arrival_time    Progress
+
+> test job1 sjf 5 5 1 5
+Queue is empty. Beginning benchmark job1. . .
+./job1 finished running. . .
+./job1 finished running. . .
+./job1 finished running. . .
+./job1 finished running. . .
+./job1 finished running. . .
+The total number of jobs submitted:  5
+Average turnaround time:             2.01 seconds
+Average CPU time:                    1.41 seconds
+Average waiting time:                0.61 seconds
+Throughput:                          0.6647 No./second
+
+> quit
+
+Total number of job submitted:  8
+Average turnaround time:        24.06 seconds
+Average CPU time:               13.01 seconds
+Average waiting time:           11.06 seconds
+Throughput:                     0.0480 No./second
+
+(base) ]0;atl0016@DESKTOP-E0RUC10: ~/advOs/asgn3[01;32matl0016@DESKTOP-E0RUC10[00m:[01;34m~/advOs/asgn3[00m$ exit
+exit
+
+Script done on 2021-03-13 20:34:50-0600
